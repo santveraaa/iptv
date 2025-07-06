@@ -7,7 +7,7 @@
 
 
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",Animal Planet
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",Animal Planet 2
 https://livecdnh2.tvanywhere.ae/hls/animalplanet/02.m3u8
 
 
