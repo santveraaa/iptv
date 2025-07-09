@@ -160,7 +160,7 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/197
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MILITARY HEROES
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/198
 
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY,HISTORY 365
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY 365
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/199
 
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MODERN MARVELS
@@ -174,6 +174,8 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/202
 
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WEATHER SPY
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
+
+
 
 
 
@@ -367,7 +369,7 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/190
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",AT HOME
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/191
 
-#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",ARCHITECTURAL DIGEST
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",ARCHITECTURAL DIGEST
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/192
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",THIS OLD HOUSE
