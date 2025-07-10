@@ -22,8 +22,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:
 
 
 
-#EXTINF:-1 tvg-id="Stream1" tvg-name="Channel 1" group-title="Live",Animal Planet 2
-https://www.indihometv.com/livetv/animalplanet
 
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="KNOWLEDGE & DOCUMENTARY",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -81,12 +79,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF:-1 tvg-id="DMAX" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE & DOCUMENTARY",DMAX TV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="KNOWLEDGE & DOCUMENTARY",Love Nature
-https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
@@ -110,13 +102,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekker
 #EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -129,19 +114,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="KNOWLEDGE & DOCUMENTARY",Dens Learning & Knowledge
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
+
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE HD
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",DISCOVERY ASIA
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/134
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",CGTN DOCUMENTARY
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/135
 
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",GLOBAL TREKKER
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/136
@@ -187,8 +167,8 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
 
 
 
-
-
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
