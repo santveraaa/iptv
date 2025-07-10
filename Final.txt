@@ -22,7 +22,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:
 
 
 
-#EXTINF:-1 tvg-id="Stream1" tvg-name="Channel 1" group-title="Live",Animal Planet
+#EXTINF:-1 tvg-id="Stream1" tvg-name="Channel 1" group-title="Live",Animal Planet 2
 https://www.indihometv.com/livetv/animalplanet
 
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="KNOWLEDGE & DOCUMENTARY",BBC Earth
