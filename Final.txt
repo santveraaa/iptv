@@ -374,7 +374,12 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/157
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FEAR FACTOR
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/158
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",JUST FOR LAUGH
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",The Emeril Lagasse
+https://amg17902-amg17902c2-amgplt0020.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0020/c59c8715-dcee-11ef-b0b4-3aaf48d84df3/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",GustoTv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & LifeStyle",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
