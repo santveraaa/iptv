@@ -4,7 +4,11 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://lo1.in/MALAY/anplnt.png" group-title="MALAYSIA DOCUMANTARY",ANIMAL PLANET FHD
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/29647.m3u8
 
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="ANIMAL PLANET HD" tvg-logo="https://lo1.in/MALAY/anplnt.png" group-title="MALAYSIA DOCUMANTARY",ANIMAL PLANET HD
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/191844.m3u8
 
 
 
