@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136613
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
