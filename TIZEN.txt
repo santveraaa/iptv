@@ -6,8 +6,6 @@
 
 
 
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",Animal Planet
-https://cdn11jtedge.indihometv.com/dass/133/animalplanet/manifest_wuseetv.mpd?encp=IrBm6h2LH4gV6xnKWk0guA&uid=&expp=1752228092
 
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
