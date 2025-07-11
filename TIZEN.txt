@@ -1,0 +1,160 @@
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
+
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE HD
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",DISCOVERY ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/134
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",GLOBAL TREKKER
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/136
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WILD PLANET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/137
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",INWILD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/139
+
+#EXTINF:0 tvg-id="Wildearth.uk" group-title="KNOWLEDGE & DOCUMENTARY",WILD EARTH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/140
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",CLARITY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/141
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY & WARFARE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/197
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MILITARY HEROES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/198
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY 365
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/199
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MODERN MARVELS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/200
+
+#EXTINF:0 tvg-id="History.uk" group-title="KNOWLEDGE & DOCUMENTARY",HISTORIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/201
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MAGELLAN TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/202
+
+#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WEATHER SPY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
+
+
+
+============================================================= Entertainment & Lifestyle ========================================================
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Entertainment & Lifestyle" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & Lifestyle",Dens Food Channel
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Entertainment & Lifestyle",Dens ShowBiz
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & Lifestyle",Dens Life & Style
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & Lifestyle",TV5 Monde Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FISHING NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/392
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",ITALIAN FISHING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/393
+
+#EXTINF:0 tvg-id="JustFishing.de" group-title="Entertainment & Lifestyle",JUST FISHING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/394
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",SURFER
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/396
+
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Entertainment & Lifestyle",BBC LIFESTYLE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/186
+
+#EXTINF:0 tvg-id="fashion" group-title="Entertainment & Lifestyle",FASHION TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/187
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FASHION TV MIDNIGHT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/188
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",TV5 MONDE STYLE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/189
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",HOMEFUL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/190
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",AT HOME
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/191
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",ARCHITECTURAL DIGEST
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/192
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",THIS OLD HOUSE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/193
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",NBC LX HOME
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/194
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",THE DESIGN NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/195
+
+#EXTINF:0 tvg-id="food-network-rus" group-title="Entertainment & Lifestyle",FOOD NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/185
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",SURVIVOR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/157
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FEAR FACTOR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/158
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",The Emeril Lagasse
+https://amg17902-amg17902c2-amgplt0020.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0020/c59c8715-dcee-11ef-b0b4-3aaf48d84df3/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",GustoTv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & LifeStyle",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & LifeStyle",Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",BBC Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & LifeStyle",BBC Home & Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Entertainment & LifeStyle",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & LifeStyle",Foodies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4&serverSideAds=false&checkedby:iptvcat.com
+
