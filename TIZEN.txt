@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
-https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE & DOCUMENTARY",Animal Planet 
+http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
