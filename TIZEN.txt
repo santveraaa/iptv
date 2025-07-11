@@ -47,6 +47,28 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/202
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WEATHER SPY
 http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
 
+#EXTINF:-1 tvg-id="BBC Earth HD"tvg-logo="https://iili.io/JmoCwfS.png" group-title="KNOWLEDGE & DOCUMENTARY",BBC Earth
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="KNOWLEDGE & DOCUMENTARY",AWE Encore
+#EXTVLCOPT:http-origin=https://www.distro.tv
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-id="National Geographic Channel HD" tvg-url=""tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyw-KzJ9ZlXfik4e2z5h6rSfIMahcCiWg9Q&s" group-title="KNOWLEDGE & DOCUMENTARY",RT DOCUMENTARY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xplore_Logo_2023.svg/2560px-Xplore_Logo_2023.svg.png" group-title="KNOWLEDGE & DOCUMENTARY", XPLORE
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 ============================================================= Entertainment & Lifestyle ========================================================
@@ -55,6 +77,12 @@ http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & Lifestyle",Dens Life & Style
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
