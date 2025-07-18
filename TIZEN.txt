@@ -5,50 +5,14 @@
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE & DOCUMENTARY",Animal Planet 
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE FHD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="KNOWLEDGE & DOCUMENTARY",LOVE NATURE HD
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",DISCOVERY ASIA
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/134
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",GLOBAL TREKKER
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/136
 
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WILD PLANET
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",INWILD
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/139
-
-#EXTINF:0 tvg-id="Wildearth.uk" group-title="KNOWLEDGE & DOCUMENTARY",WILD EARTH
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/140
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",CLARITY
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/141
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY & WARFARE
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/197
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MILITARY HEROES
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/198
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",HISTORY 365
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/199
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MODERN MARVELS
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/200
-
-#EXTINF:0 tvg-id="History.uk" group-title="KNOWLEDGE & DOCUMENTARY",HISTORIA
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/201
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",MAGELLAN TV
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/202
-
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE & DOCUMENTARY",WEATHER SPY
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
 
 #EXTINF:-1 tvg-id="BBC Earth HD"tvg-logo="https://iili.io/JmoCwfS.png" group-title="KNOWLEDGE & DOCUMENTARY",BBC Earth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
@@ -96,54 +60,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",JUST FOR LAUGHS
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/159
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FISHING NETWORK
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/392
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",ITALIAN FISHING
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/393
-
-#EXTINF:0 tvg-id="JustFishing.de" group-title="Entertainment & Lifestyle",JUST FISHING
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/394
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",SURFER
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/396
-
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Entertainment & Lifestyle",BBC LIFESTYLE
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/186
-
-#EXTINF:0 tvg-id="fashion" group-title="Entertainment & Lifestyle",FASHION TV
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/187
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",FASHION TV MIDNIGHT
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/188
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",TV5 MONDE STYLE
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/189
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",HOMEFUL
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/190
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",AT HOME
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/191
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",ARCHITECTURAL DIGEST
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/192
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",THIS OLD HOUSE
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/193
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",NBC LX HOME
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/194
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",THE DESIGN NETWORK
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/195
-
-#EXTINF:0 tvg-id="food-network-rus" group-title="Entertainment & Lifestyle",FOOD NETWORK
-http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/185
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",The Emeril Lagasse
 https://amg17902-amg17902c2-amgplt0020.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0020/c59c8715-dcee-11ef-b0b4-3aaf48d84df3/playlist.m3u8
