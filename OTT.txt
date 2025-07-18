@@ -111,7 +111,20 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xplore_Logo_2023.svg/2560px-Xplore_Logo_2023.svg.png" group-title="KNOWLEDGE & DOCUMENTARY", XPLORE
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Nat Geo Wild
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=d8T1G-gygW3zDSdm2u652A&expires=1752888864&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Discovery
+https://v4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=wxut90EeCfAP0D7fS5qwyg&expires=1752889337&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Discovery Life
+https://v12.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8?token=uCWO-BkFmfMMhENQr5iZXQ&expires=1752889430&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+#EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg" group-title="KNOWLEDGE & DOCUMENTARY", Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
 
 
@@ -210,14 +223,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
 #EXTVLCOPT:http-origin=http://www.biznetvideo.net
-#EXTINF:-1 tvg-id="Biznet Lifestyle" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg" group-title="Lifestyle", Biznet Lifestyle
+#EXTINF:-1 tvg-id="Biznet Lifestyle" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg" group-title="Entertainment & Lifestyle", Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
-#EXTVLCOPT:http-origin=http://www.biznetvideo.net
-#EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg" group-title="Lifestyle", Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
 
 
@@ -260,4 +268,8 @@ https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Entertainment & Lifestyle",Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Entertainment & Lifestyle",Cooking Channel
+https://v2.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=fSYE19o8zyq8TLblTPAsKA&expires=1752889135&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Entertainment & Lifestyle",Food Network HD
+https://v12.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8?token=JN2InYm_pQR6isCxMYkEUg&expires=1752889763&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
