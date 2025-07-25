@@ -238,7 +238,7 @@ https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastem
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",The Emeril Lagasse
 https://amg17902-amg17902c2-amgplt0020.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0020/c59c8715-dcee-11ef-b0b4-3aaf48d84df3/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & LifeStyle",Superyacht TV
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & Lifestyle",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & Lifestyle",Tastemade
