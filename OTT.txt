@@ -108,21 +108,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xplore_Logo_2023.svg/2560px-Xplore_Logo_2023.svg.png" group-title="KNOWLEDGE & DOCUMENTARY", MadeInCyprus
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xplore_Logo_2023.svg/2560px-Xplore_Logo_2023.svg.png" group-title="KNOWLEDGE & DOCUMENTARY", Xplore
 https://xplore-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Infast
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Nat Geo Wild
-https://v5.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=yZOsaSx_U3dVIj99f2WbQA&expires=1752890752&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Pbs Nature
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Discovery
-https://v4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=wxut90EeCfAP0D7fS5qwyg&expires=1752889337&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE & DOCUMENTARY",Discovery Life
-https://v12.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8?token=uCWO-BkFmfMMhENQr5iZXQ&expires=1752889430&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
@@ -218,12 +215,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="FashionTV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & Lifestyle",Dens Food Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
 #EXTVLCOPT:http-origin=http://www.biznetvideo.net
@@ -235,6 +226,14 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 
 
 ========================
+
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",BBC Home & Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",BBC Travel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff&checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & Lifestyle",Tastemade
 https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
@@ -251,20 +250,11 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & Lifestyle",BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & Lifestyle",BBC Home & Garden
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0&serverSideAds=false&checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & Lifestyle",Foodies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Entertainment & Lifestyle",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment & Lifestyle",BBC Home & Garden
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Entertainment & Lifestyle",BBC Travel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & Lifestyle",Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
@@ -275,8 +265,6 @@ https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Entertainment & Lifestyle",Cooking Channel
 https://v2.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=fSYE19o8zyq8TLblTPAsKA&expires=1752889135&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Entertainment & Lifestyle",Food Network HD
-https://v12.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8?token=JN2InYm_pQR6isCxMYkEUg&expires=1752889763&user_id=Z0tSWVZwdGN5RmdkVmFNMWtqNXpSajF4Y3cwWTk4QUlLRUNDQjg3UQ==
 
 
 
