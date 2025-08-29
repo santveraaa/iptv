@@ -590,7 +590,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff&checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Tastemade
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Tastemade (1)
 https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",The Emeril Lagasse
@@ -599,7 +599,7 @@ https://amg17902-amg17902c2-amgplt0020.playout.now3.amagi.tv/playlist/amg17902-a
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & LifeStyle",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & Lifestyle",Tastemade
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Entertainment & LifeStyle",Tastemade (2)
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",BBC Food
