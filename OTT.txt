@@ -480,15 +480,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f5d2e90-2471-4d92-b142-439cfc613cca&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Wild
-https://v16.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8?token=Xn2XkBFQdU8x-Ijz9solCw&expires=1756839016&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
-#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",National Geographic
-https://v3.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8?token=NVl8nhd4lV5D5RyaZwk_Ng&expires=1756839257&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
-#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Animal Planet (2)
-https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8?token=kFB9oSBN3vkUKU3-SiZxYw&expires=1756839745&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
 #EXTINF:-1 tvg-id="LoveNatureHD" tvg-name="Love Nature HD" group-title="Knowledge & Documentary" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/256.png", Love Nature HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -520,12 +511,14 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Wild
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Xtreme Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",BBC Earth (2)
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 
@@ -678,7 +671,20 @@ https://v13.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8?token=SNJOjmlsxdblT8Er
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travel Channel
 https://v16.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8?token=Ng8u17jGNmVDLYIuxDBjBg&expires=1756839643&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
 
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",INTRAVEL
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Hd Travel
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/55ad053d-7e96-48fd-a2d5-7adc9cee51fa/0.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp France
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp Spain
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
