@@ -544,12 +544,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entertainment & LifeStyle",Food Network 
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
@@ -658,18 +652,6 @@ https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/ifood.png" group-title="Entertainment & LifeStyle",Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Cooking Channel
-https://v1.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=gsZGCChpbvFZ_5JHk2K94w&expires=1756838793&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Food Network
-https://v8.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8?token=pAgZ16vzw2XykLOBNfL1-w&expires=1756838935&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",TLC
-https://v13.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8?token=SNJOjmlsxdblT8EracOGlg&expires=1756839548&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travel Channel
-https://v16.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8?token=Ng8u17jGNmVDLYIuxDBjBg&expires=1756839643&user_id=UnNHV2xtTVdGVVdPbDNibGUwR0hvbUpuQm1Qc2xPTGRzM1B5aURjMQ==
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",INTRAVEL
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
