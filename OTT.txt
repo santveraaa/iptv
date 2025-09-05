@@ -698,3 +698,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PIvMNEo-Gk_TbcGVBbvB3wWd5MM=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/452/timnas-indonesia-435ace.png" , timnas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdnts=exp=1757092176~acl=/stream/19497/file/*~id=183518534~hmac=4fd39e8e3b864768069cdbb081ae369da6c1f43478165929dcad554fc126ce33
