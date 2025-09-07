@@ -664,7 +664,25 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m
 
 
 
+============================= KOREA ==================================================
 
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",TVN
+https://everylive.space/live/tvn/livestream.m3u8
+
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",Mnet
+https://everylive.space/live/mnet/livestream.m3u8
+
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",MBC
+https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1648319911.m3u8
+
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1757417875&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc0MTc4NzV9fX1dfQ__&Signature=LSCPXFHABj4qOUKfwgpIJy1PCVftZG0Ox5vTPZnZaSJnxtTwb9OlF7-3FMerqN3wJRrsDlmLBqjNBeVkmTeEg1lkPVRRQAHJD2J4HB~cbbkdOoH58QKx0ZGc4jLd8wh2U41AzBaQsFznCFGy0fnVDO-MbPgwNXpL2lUptf-7x1PSknykvoKZ9czk5Cquihq2mWgQSU-I0BPUaPn08Z7k-RAtrECCk756GGCBB7l0hk-o6lwO1hfMsXJsnu0y36HLcTZx0NgPogC5SaaAeU8uGGWnWPEhLjWTU0yds2iscWhdd3l5QZ7j46erHVK0rRADIamFU6ngkEaOX0YkkZa4zA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1757417908&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc0MTc5MDh9fX1dfQ__&Signature=iNwcHYw3Az-5XYM80WVfSAIUHFMpY8EDvbVP1oeB7Gy2lrH5KO7dfLMzWZgDHH-sUsAcXFPoAYTi0ALBm2xV4o2r5YeJpFgUfuHZWRolRUIYcEzrVK0jh-ocveNUBZ4Vj2GDFoNUaJiguyymcQZvhyINcOfJX-yiE7iOy4qAo2LuC7PkVCP5JMAMnq28Uf6wbpT4FeuIZm4gVaq6rz6aeLLqojfpC~fgGsZFY78fSMndpAC78PNz-JK3XkF~NWOJCipDeq~lUcBKvwoNUJnO~y0f6KRfo-dxtVmiMWGVpZNxgWQdHEmHZ4j2PT3f5JlO9y~-d8OgICQ6YbR4F1zxgQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 
 
