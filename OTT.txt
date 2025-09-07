@@ -675,7 +675,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 #EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",MBC
+#EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1648319911.m3u8
 
 #EXTINF:-1 group-title="Korea" tvg-id="" tvg-logo="",KBS2
