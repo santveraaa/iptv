@@ -6,9 +6,6 @@
 
 <============================================================== Indonesia Channels ==================================================>
 
-
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
@@ -523,11 +520,9 @@ https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Adventure Earth
-https://platform.twitter.com/widgets/tweet_button.2f70fb173b9000da126c79afe2098f02.en.html#dnt=false&id=twitter-widget-1&lang=en&original_referer=https%3A%2F%2Fufreetv.com%2Fsearch-all-channels%3Fstream%3Dhttps%253A%252F%252Fautentic-adventure-earth-1-eu.rakuten.wurl.tv%252Fplaylist.m3u8&size=m&text=Search%20All%20Channels%20%E2%80%93%20UFREETV&time=1757192037082&type=share&url=https%3A%2F%2Fufreetv.com%2Fsearch-all-channels
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",NatureTime
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -567,6 +562,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="Entertainment & LifeStyle" tvg-id="" ,RAI Italia
+https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
@@ -578,6 +579,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifesty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Entertainment & LifeStyle",Dens ShowBiz 
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & LifeStyle",Dens Life & Style 
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -592,7 +600,24 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & LifeStyle",TV5 Monde Style 
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="" tvg-country="ID" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde Asie 
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=C263B43B-E6B9-4FB6-82B1-D701E0AAF847:c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="" tvg-logo="",Food Travel
+https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 
 
@@ -621,6 +646,9 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/foodies.jpg" group-title="Entertainment & LifeStyle",Foodies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4&serverSideAds=false&checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Entertainment & LifeStyle",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -633,6 +661,9 @@ https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",INTRAVEL
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Hd Travel
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/55ad053d-7e96-48fd-a2d5-7adc9cee51fa/0.m3u8
+
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
@@ -641,21 +672,6 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp Spain
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",4K Travel
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Hell's Kitchen
-https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",In The Kitchen
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Jordan Kitchen
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Roya Kitchen
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 
 
 
@@ -687,3 +703,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PIvMNEo-Gk_TbcGVBbvB3wWd5MM=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/452/timnas-indonesia-435ace.png" , timnas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdnts=exp=1757092176~acl=/stream/19497/file/*~id=183518534~hmac=4fd39e8e3b864768069cdbb081ae369da6c1f43478165929dcad554fc126ce33
