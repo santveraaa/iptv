@@ -9,8 +9,7 @@
 #EXTINF:-1 group-title="Indonesia Channel" tvg-id="" tvg-logo="",Allplay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b9fa09247620455c43ff030294f0a1:187d1693f35895eddbc79f205b3b6710
-https://cdngb196.indihometv.com/atm/mpd-vo/useeprime/manifest.mpd?encp=DDNtF5WOZcXQFtYouKrjZA&uid=&expp=1757377168
-
+https://cdngb196.indihometv.com/atm/mpd-vo/useeprime/manifest.mpd?encp=3f01fWkQVyEEl08qUnOMDA&uid=&expp=1757377495
 
 <================================ KNOWLEDGE & DOCUMENTARY ============================================>
 
