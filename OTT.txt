@@ -11,6 +11,12 @@
 #KODIPROP:inputstream.adaptive.license_key=e6b9fa09247620455c43ff030294f0a1:187d1693f35895eddbc79f205b3b6710
 https://cdngb196.indihometv.com/atm/mpd-vo/useeprime/manifest.mpd?encp=3f01fWkQVyEEl08qUnOMDA&uid=&expp=1757377495
 
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",Sindonews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bcda24c5d80d03dc3f53f7a99a00bf:d81bf96cc8dd944363be1f72aa4828fb 
+https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+
+
 <================================ KNOWLEDGE & DOCUMENTARY ============================================>
 
 
