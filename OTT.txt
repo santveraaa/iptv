@@ -613,12 +613,6 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="",Food Travel 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-
-
 
 ========================
 
@@ -672,7 +666,7 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp Spain
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="", Food Travel 2
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="", Food Travel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
