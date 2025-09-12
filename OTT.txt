@@ -6,23 +6,6 @@
 
 <============================================================== Indonesia Channels ==================================================>
 
-#EXTINF:-1 group-title="Indonesia Channel" tvg-id="" tvg-logo="",Allplay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/livetv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6b9fa09247620455c43ff030294f0a1:187d1693f35895eddbc79f205b3b6710
-https://cdngb196.indihometv.com/atm/mpd-vo/useeprime/manifest.mpd?encp=3f01fWkQVyEEl08qUnOMDA&uid=&expp=1757377495
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",Sindonews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/livetv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25bcda24c5d80d03dc3f53f7a99a00bf:d81bf96cc8dd944363be1f72aa4828fb 
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 
 <================================ KNOWLEDGE & DOCUMENTARY ============================================>
@@ -54,15 +37,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 #EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/history.jpg" group-title="Knowledge & Documentary",History HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
-#EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/history.jpg" group-title="Knowledge & Documentary",History HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -182,7 +156,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild (1)
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 =======
-#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/pluto%20animal.jpg" group-title="Knowledge & Documentary",Pluto TV Animal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f5d2e90-2471-4d92-b142-439cfc613cca&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="LoveNatureHD" tvg-name="Love Nature HD" group-title="Knowledge & Documentary" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/256.png", Love Nature HD
@@ -204,7 +178,7 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",National Geographic Wild (3)
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild (3)
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/NAT-GEO-HD/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -213,16 +187,13 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/NAT-GEO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Wild
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Wild
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Xtreme Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",BBC Earth (2)
-https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Wild TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/WILD%20TV.png" group-title="Knowledge & Documentary",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
