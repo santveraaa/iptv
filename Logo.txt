@@ -2,25 +2,20 @@
 ============================================ CHANNEL INDONESIA ===============================================
 
 INEWS
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/inews.png
+https://iili.io/JV3x4Fs.png
 
 METROTV
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/metrotv.png
 
 SINDONEWS
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/sindonews.jpg
 
 JOWO CHANEL
 https://github.com/santveraaa/iptv/blob/main/logo/jowo%20chanel.jpg
 
 JITV YOGYA
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/jitv%20jogja.jpg
 
 RCTI
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/rcti.png
 
 GTV
-https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/gtv.jpg
 
 MNCTV
 https://i.imgur.com/jOE2D69.png
