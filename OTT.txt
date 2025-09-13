@@ -568,3 +568,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-name="" tvg-country="ID" tvg-logo="",EPL
 http://sport-birutv.my.id/play/live.php?mac=00:1A:79:c7:3c:90&stream=1579368&extension=ts&play_token=pNsbcTSvpk
 
+#EXTINF:0 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/ASLKYqJRc7EcmgTAGGYEmHAOjNE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg" , champions tv 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/9182/file/drm/dash/9182_stream.mpd?hdntl=exp=1757784958~acl=%2fstream%2f9182%2ffile%2f*~id=183518534~data=hdntl~hmac=08ec225bd3ceee37ebdb21d48c4fc2d2b05e53585ab816e771e19c7a35765746
+
