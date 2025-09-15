@@ -122,13 +122,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="🇮🇩 Nasional Lokal MK", BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
  
- 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4578e967c388430b90f850919713e645:f77b7732de0af2c2b17f1b63b7e66226
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/sindonews.jpg",SindoNews
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
   
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -152,12 +147,6 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
  
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-#EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ytimg.com/vi/R8th8f1vBnY/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDsgUCh_MA8=&rs=AOn4CLAMq19Vyc9M-QuCqO0qU-vvmw33zg" group-title="🇮🇩 Nasional Lokal MK",Hanacaraka TV
-https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
- 
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01g6g57e4s2dby94majz97a98j.jpg",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
  
@@ -177,13 +166,6 @@ https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzw1iPft9ZYuFVyMWCnpemc3j2hRyEdNOjVQ&s" group-title="🇮🇩 Nasional Lokal MK",Sakti TV Madiun
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
  
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-#EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCQCl7j8IFovVwkxjRr1fvQUxQFJ441ljfQ&s",BALI TV
-https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://stream.staratv.id/logo/external",STARA TV 
 https://stream.staratv.id/hls/stream.m3u8
 
