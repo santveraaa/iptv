@@ -148,10 +148,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
  
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/e-FrpJtWmoFkkGI-1m2quT8ECxA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
  
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01g6g57e4s2dby94majz97a98j.jpg",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
