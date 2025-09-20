@@ -173,6 +173,10 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://stream.staratv.id/hls/stream.m3u8
 
 
+#EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="",Transtv (cub)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd?sign=5ce53887e07b78f17e73df7865757120&time=1758364690
 
 
 <================================ KNOWLEDGE & DOCUMENTARY ============================================>
