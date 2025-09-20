@@ -363,7 +363,35 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/WILD%20TV.png" group-title="Knowledge & Documentary",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Animal Planet
+https://fl7.moveonjoy.com/Animal_Planet/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Channel
+https://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Family
+https://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Life
+https://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Science
+https://fl7.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",HGTV
+https://fl7.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",HSN
+https://fl7.moveonjoy.com/HSN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Love Nature
+https://fl7.moveonjoy.com/LOVE_NATURE/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",National Geographic
+https://fl7.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Wild
+https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 
 
@@ -507,7 +535,17 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp Spain
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Cooking Channel
+https://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Food Network
+https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travel Channel
+https://fl7.moveonjoy.com/Travel_Channel/index.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",World Fishing Network
+https://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 
 <==================================================== SPORTS ====================================================>
