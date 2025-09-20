@@ -173,9 +173,6 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://stream.staratv.id/hls/stream.m3u8
 
 
-#EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="",Transtv (cub)
-#KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 
 <================================ KNOWLEDGE & DOCUMENTARY ============================================>
@@ -523,9 +520,6 @@ https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",INTRAVEL
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Hd Travel
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/55ad053d-7e96-48fd-a2d5-7adc9cee51fa/0.m3u8
-
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
@@ -623,12 +617,14 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",Peacock TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="PREMIUM SPORT" , PEACOOCK SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022ef5d3bd33dac0d464630e222235f:d86f73aca3bf4b5c93f5d4e1276b1e34
-https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506879-208292-247ada50b64)/master_2hr.mpd?c3.ri=1b54b621c9c0043e_5c66c99dd4-rgz56_CVX06&aws.sessionId=e0e1fb70-8f17-4ea2-9256-01a0d7177f1b
+#KODIPROP:inputstream.adaptive.license_key=
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , PEACOOCK SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022cacb3e30f7f28a3e01b26c0688d0:b0236f8e4efd5f69bff3b8458271abb2
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506382-207795-24790056b33)/master_2hr.mpd?c3.ri=1b54daa832400b15_5c66c99dd4-djn2f_CVX06&aws.sessionId=b2bfbaa0-c9d3-4184-85ae-987d9303ccf7
 
 
 
