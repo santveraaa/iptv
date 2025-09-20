@@ -623,6 +623,12 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022ef5d3bd33dac0d464630e222235f:d86f73aca3bf4b5c93f5d4e1276b1e34
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506879-208292-247ada50b64)/master_2hr.mpd?c3.ri=1b54b621c9c0043e_5c66c99dd4-rgz56_CVX06&aws.sessionId=e0e1fb70-8f17-4ea2-9256-01a0d7177f1b
+
+
 
 
 
