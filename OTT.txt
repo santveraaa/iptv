@@ -363,31 +363,28 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/WILD%20TV.png" group-title="Knowledge & Documentary",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Knowledge & Documentary",Animal Planet
 https://fl7.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Knowledge & Documentary",Discovery Channel
 https://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Family
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Knowledge & Documentary",Discovery Family
 https://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Life
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Knowledge & Documentary",Discovery Life
 https://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="Knowledge & Documentary",Discovery Science
 https://fl7.moveonjoy.com/Discovery_Science/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",HGTV
-https://fl7.moveonjoy.com/HGTV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",HSN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" group-title="Knowledge & Documentary",HSN
 https://fl7.moveonjoy.com/HSN/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",National Geographic
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge & Documentary",National Geographic
 https://fl7.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Knowledge & Documentary",Nat Geo Wild
 https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 
@@ -517,28 +514,25 @@ https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/ifood.png" group-title="Entertainment & LifeStyle",Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",INTRAVEL
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/intravel.png" group-title="Entertainment & LifeStyle",INTRAVEL
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp France
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Entertainment & LifeStyle",Travelxp France
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travelxp Spain
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Entertainment & LifeStyle",Travelxp Spain
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Cooking Channel
+#EXTINF:-1 tvg-country="UN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
 https://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Food Network
+#EXTINF:-1 tvg-country="UN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
 https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",Travel Channel
-https://fl7.moveonjoy.com/Travel_Channel/index.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",World Fishing Network
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="Entertainment & LifeStyle",World Fishing Network
 https://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 
@@ -617,14 +611,10 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="PREMIUM SPORT" , PEACOOCK SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="PREMIUM SPORT" , PEACOOCK SPORTS LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , PEACOOCK SPORTS LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022d4f8c73526288337f7f4018eda4b:17bcef09d6c486693487092bea3f8ccd
-https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506911-208324-247af8d5384)/master_2hr.mpd?c3.ri=1b55f4172ec0003e_5c66c99dd4-rgz56_CVX06&aws.sessionId=f43caaef-3385-49d2-abbf-ca9f7207aa13
 
 
 
