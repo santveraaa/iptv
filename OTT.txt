@@ -618,10 +618,10 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="PREMIUM SPORT" , PEACOOCK SPORTS LIVE EVENT
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Best of World Athletics Champs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=00221e95946c55fa198b2ab7eef5a692:604cdedc2eb0b8f9058918bb0f46cc69
+https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/830/75c/202509/83075c22-31b6-5d7c-9af9-68a280ddf10e/peacock208094-ctr/master.mpd?c3.ri=1b5ad6615e800943_85d6c995fd-ds44w_CVX06&aws.sessionId=b1991367-5a89-40da-9e54-d4412a98f2c4
 
 
 
