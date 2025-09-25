@@ -623,16 +623,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=00221e95946c55fa198b2ab7eef5a692:604cdedc2eb0b8f9058918bb0f46cc69
 https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/830/75c/202509/83075c22-31b6-5d7c-9af9-68a280ddf10e/peacock208094-ctr/master.mpd?c3.ri=1b5ad6615e800943_85d6c995fd-ds44w_CVX06&aws.sessionId=b1991367-5a89-40da-9e54-d4412a98f2c4
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Men's Discus Throw Final
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022eb96d443cfc32057014b1ef19ddb:6647cee16d60b24ccbb627b671d996bc
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/dai/pub/global/FER/a5d/d3a/202509/a5dd3a78-78b1-530a-96ec-764bcc08a1f8/peacock208093-ctr/master.mpd?requestVamAPI=true&c3.ri=1b5ad7faf1000698_85d6c995fd-4b46s_CVX06
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",World Athletics Champs:Day 9 PM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022bc756d33ec2ca8f3349754e3aa2f:42d8066faf99d368a843c160d4334cfd
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/dai/pub/global/FER/649/443/202509/64944330-1a92-5695-a7b3-02be02ff2d72/peacock208091-ctr/master.mpd?requestVamAPI=true&c3.ri=1b5ad8c3d6401492_85d6c995fd-n4vvl_CVX06
-
 #EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Heptathlon:Long Jump Group B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022233f3dcc014986530ece954437ba:82529c2c12bf82a2680e3af6bf3c8c0c
@@ -658,7 +648,29 @@ https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f
 #KODIPROP:inputstream.adaptive.license_key=002235bba574618d94e950edd298f6a3:8fa0bf6715ab0a069f08f51a123bd5ef
 https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/a24/ff0/202509/a24ff093-c136-5d86-907a-7f347b89f21b/peacock208076-ctr/master.mpd?c3.ri=1b5adc803f801f7d_85d6c995fd-cgtqq_CVX06&aws.sessionId=b157f355-a4bf-4c47-a1bd-0b233841e8f4
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",World Athletics Champs:Day 8 PM
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:High Jump Group A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002235bba574618d94e950edd298f6a3:8fa0bf6715ab0a069f08f51a123bd5ef
+#KODIPROP:inputstream.adaptive.license_key=0022a53317d1474e59ce1d12e14cc9ba:d6ff15e46c82d71b175f22f53f5dfca2
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/033/ed9/202509/033ed9af-9bb5-5937-b37b-8d4c6ab93da9/peacock208079-ctr/master.mpd?c3.ri=1b5adeed9e802298_85d6c995fd-4b46s_CVX06&aws.sessionId=fe0da804-fa14-4a31-a547-9ece3cd77b09
+
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:High Jump Group B
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022473c6239523d8171bf573b962fd7:6826d2ae0b162ae14ac44f9505397a9e
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/e39/551/202509/e3955131-042d-5a74-9a08-b92465ec95d2/peacock208080-ctr/master.mpd?c3.ri=1b5adf5d4cc00943_85d6c995fd-ds44w_CVX06&aws.sessionId=4c97e980-8831-4114-9140-023c9c75c890
+
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Women's Shot Put Final
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022eaf0c15663d7cad275fe84979d5d:8ae7835fca61c16b2491542108970d23
+https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/926/0e0/202509/9260e0bf-ca4c-57a3-b15a-c3e86fdadc5b/peacock208081-ctr/master.mpd?c3.ri=1b5adfdf7c000298_85d6c995fd-4b46s_CVX06&aws.sessionId=213040c7-7191-4ce8-953d-545e942714c9
+
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Women's Javelin Throw Final
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022525663dea1392396361e7118be5d:601063ecde97dbb80279ba3a7a3ded82
+https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/9bd/ab2/202509/9bdab23d-20b4-5f83-bb2c-0dad0242427c/peacock208082-ctr/master.mpd?c3.ri=1b5ae03f0ec0177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=5b8480e5-908b-40a7-8197-b245cf0efc5f
+
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",World Athletics Champs:Day 9 PM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022668af45096bb0d93aa05c484fb40:7953d9250df3c324020bcd86f5558144
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/664/72d/202509/66472de1-31fd-517f-af26-0f84ff4ae0c3/peacock208083-ctr/master.mpd?c3.ri=1b5ae0f232800492_85d6c995fd-n4vvl_CVX06&aws.sessionId=f1e192e8-27a3-42dc-86e9-8123a3c1f947
+
 
