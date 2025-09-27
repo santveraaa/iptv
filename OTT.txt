@@ -618,59 +618,13 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Best of World Athletics Champs
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",PEACOOCK SPORT LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00221e95946c55fa198b2ab7eef5a692:604cdedc2eb0b8f9058918bb0f46cc69
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/830/75c/202509/83075c22-31b6-5d7c-9af9-68a280ddf10e/peacock208094-ctr/master.mpd?c3.ri=1b5ad6615e800943_85d6c995fd-ds44w_CVX06&aws.sessionId=b1991367-5a89-40da-9e54-d4412a98f2c4
+#KODIPROP:inputstream.adaptive.license_key=0022b0a1eef4a092e6cc8858303952c5:feb64ea808b2ddf63a2a0cd59864cb32
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506917-208330-247afe8e10a)/master_2hr.mpd?c3.ri=1b5dcc27f20006df_85d6c995fd-drlqg_CVX06&aws.sessionId=9519e7f6-f160-46b9-b9ba-d0ab0a30cb7c
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Heptathlon:Long Jump Group B
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",PEACOOCK SPORT LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022233f3dcc014986530ece954437ba:82529c2c12bf82a2680e3af6bf3c8c0c
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/060/d70/202509/060d702b-2f17-5b32-b544-ac240a9445a6/peacock208073-ctr/master.mpd?c3.ri=1b5ada094bc01b7d_85d6c995fd-cgtqq_CVX06&aws.sessionId=091a3a05-9bef-4231-ab60-ec3d7d8b005f
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:Shot Put Group A
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022814dd706ae9bbb3c6c8248fb6c4c:6d7bb96aa917154567b8898ca5bcf754
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/00a/201/202509/00a2010b-1fb9-563d-b2a0-802290c19707/peacock208074-ctr/master.mpd?c3.ri=1b5ada9400801c92_85d6c995fd-n4vvl_CVX06&aws.sessionId=2a4ef11c-4436-4454-9d2f-938a9df0ba47
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:Shot Put Group B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022fbac09c81c7f1cd9fb1af445dea5:5aa96e86de577cbde343a64bb81d7c2a
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/cf8/f0f/202509/cf8f0ff4-c03a-51bd-b4af-90917b6ffa98/peacock208075-ctr/master.mpd?c3.ri=1b5adb4738001543_85d6c995fd-ds44w_CVX06&aws.sessionId=f052c63c-4b4a-4509-91e3-b4b406bb280d
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Heptathlon:Javelin Throw Group A
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022096a9acbfcb5712009cd0c61b394:3bc7e539d3f084fe2a163ba7edda169d
-https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/fe6/f36/202509/fe6f3600-95b0-525c-a7be-a93c6cad5d20/peacock208077-ctr/master.mpd?c3.ri=1b5adbf650800298_85d6c995fd-4b46s_CVX06&aws.sessionId=e2813a59-1a46-4193-952d-2d44749e6a07
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",World Athletics Champs:Day 8 PM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002235bba574618d94e950edd298f6a3:8fa0bf6715ab0a069f08f51a123bd5ef
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/a24/ff0/202509/a24ff093-c136-5d86-907a-7f347b89f21b/peacock208076-ctr/master.mpd?c3.ri=1b5adc803f801f7d_85d6c995fd-cgtqq_CVX06&aws.sessionId=b157f355-a4bf-4c47-a1bd-0b233841e8f4
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:High Jump Group A
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022a53317d1474e59ce1d12e14cc9ba:d6ff15e46c82d71b175f22f53f5dfca2
-https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/033/ed9/202509/033ed9af-9bb5-5937-b37b-8d4c6ab93da9/peacock208079-ctr/master.mpd?c3.ri=1b5adeed9e802298_85d6c995fd-4b46s_CVX06&aws.sessionId=fe0da804-fa14-4a31-a547-9ece3cd77b09
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Decatlon:High Jump Group B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022473c6239523d8171bf573b962fd7:6826d2ae0b162ae14ac44f9505397a9e
-https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/e39/551/202509/e3955131-042d-5a74-9a08-b92465ec95d2/peacock208080-ctr/master.mpd?c3.ri=1b5adf5d4cc00943_85d6c995fd-ds44w_CVX06&aws.sessionId=4c97e980-8831-4114-9140-023c9c75c890
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Women's Shot Put Final
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022eaf0c15663d7cad275fe84979d5d:8ae7835fca61c16b2491542108970d23
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/926/0e0/202509/9260e0bf-ca4c-57a3-b15a-c3e86fdadc5b/peacock208081-ctr/master.mpd?c3.ri=1b5adfdf7c000298_85d6c995fd-4b46s_CVX06&aws.sessionId=213040c7-7191-4ce8-953d-545e942714c9
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",Women's Javelin Throw Final
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022525663dea1392396361e7118be5d:601063ecde97dbb80279ba3a7a3ded82
-https://g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/9bd/ab2/202509/9bdab23d-20b4-5f83-bb2c-0dad0242427c/peacock208082-ctr/master.mpd?c3.ri=1b5ae03f0ec0177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=5b8480e5-908b-40a7-8197-b245cf0efc5f
-
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",World Athletics Champs:Day 9 PM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022668af45096bb0d93aa05c484fb40:7953d9250df3c324020bcd86f5558144
-https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/664/72d/202509/66472de1-31fd-517f-af26-0f84ff4ae0c3/peacock208083-ctr/master.mpd?c3.ri=1b5ae0f232800492_85d6c995fd-n4vvl_CVX06&aws.sessionId=f1e192e8-27a3-42dc-86e9-8123a3c1f947
-
+#KODIPROP:inputstream.adaptive.license_key=00229758d16f26eb739b38a05c5a65a5:27220e55f16a456d58294bb8879246f3
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506916-208329-247afd99ec9)/master_2hr.mpd?c3.ri=1b5dcc7bc900177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=f2ea03fd-a091-4626-9a3f-996416b186e4
 
