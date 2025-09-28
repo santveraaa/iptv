@@ -632,3 +632,7 @@ https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/angels/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 1
+https://lb8.strmd.top/secure/jIyuOrmsjcQMexViwjJSpEhlVseVwluo/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
