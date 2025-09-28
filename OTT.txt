@@ -628,3 +628,11 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f
 #KODIPROP:inputstream.adaptive.license_key=00229758d16f26eb739b38a05c5a65a5:27220e55f16a456d58294bb8879246f3
 https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506916-208329-247afd99ec9)/master_2hr.mpd?c3.ri=1b5dcc7bc900177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=f2ea03fd-a091-4626-9a3f-996416b186e4
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 1
+https://gg.poocloud.in/NBC/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 2
+https://gg.poocloud.in/NBC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 3
+https://lb5.strmd.top/secure/QILLVPZXXGsRGgNskmfCnUTTOEyHsRCY/alpha/stream/6-oregon-vs-3-penn-state/1/playlist.m3u8
