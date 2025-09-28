@@ -629,8 +629,7 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f
 https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506916-208329-247afd99ec9)/master_2hr.mpd?c3.ri=1b5dcc7bc900177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=f2ea03fd-a091-4626-9a3f-996416b186e4
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 3
-https://lb5.strmd.top/secure/QILLVPZXXGsRGgNskmfCnUTTOEyHsRCY/alpha/stream/6-oregon-vs-3-penn-state/1/playlist.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embedsports.top/
+https://gg.poocloud.in/angels/index.m3u8
