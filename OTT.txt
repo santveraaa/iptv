@@ -646,4 +646,3 @@ https://gg.poocloud.in/NBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 3
 https://lb5.strmd.top/secure/QILLVPZXXGsRGgNskmfCnUTTOEyHsRCY/alpha/stream/6-oregon-vs-3-penn-state/1/playlist.m3u8
 
-
