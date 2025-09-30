@@ -84,13 +84,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
  
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="🇮🇩 Nasional Lokal MK",ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="🇮🇩 Nasional Lokal MK",ANTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -131,10 +124,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/sindonews.jpg",SindoNews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
   
-#EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
- 
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" tvg-id="94" , Elshinta TV
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
  
@@ -507,10 +496,10 @@ https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & LifeStyle",BBC Food
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/foodies.jpg" group-title="Entertainment & LifeStyle",Foodies
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4&serverSideAds=false&checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Entertainment & LifeStyle",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -534,13 +523,14 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
-https://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+https://fl25.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-country="UN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
-https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="Entertainment & LifeStyle",World Fishing Network
-https://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 
 <==================================================== SPORTS ====================================================>
@@ -629,7 +619,6 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f
 https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506916-208329-247afd99ec9)/master_2hr.mpd?c3.ri=1b5dcc7bc900177d_85d6c995fd-cgtqq_CVX06&aws.sessionId=f2ea03fd-a091-4626-9a3f-996416b186e4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F140.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fembedsports.top%2F
-https://lb3.strmd.top/secure/gtVBXMcvigECzwLzXpkeuSogamDpOevi/alpha/stream/tennis-channel/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM SPORT" , SPORTS LIVE 1
+#KODIPROP:inputstream.adaptive.stream_headers=
 
