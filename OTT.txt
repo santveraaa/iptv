@@ -161,6 +161,8 @@ https://stream.staratv.id/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/rodjatv.png" group-title="🇮🇩 Nasional Lokal MK",Rodjatv
 https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/antaratv.png" group-title="🇮🇩 Nasional Lokal MK",Antara TV
+https://cdn08jtedge.indihometv.com/dassdvr/194/antara/manifest.mpd
 
 
 
@@ -387,7 +389,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="Knowledge & Documentary",CuriosiTV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/curiosity.png" group-title="Knowledge & Documentary",CuriosiTV
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 
