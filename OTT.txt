@@ -645,7 +645,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=002257196932573d25db5aacf614dace:26fff0ca3fa550c911963a8f83ada548
 https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506964-208377-247b2b60af9)/master_2hr.mpd?c3.ri=1b680a0857c01c3e_5c66c99dd4-rgz56_CVX06&aws.sessionId=a3031e3b-cb76-4fb7-8786-1c389423f86a|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F141.0.0.0%20Safari%2F537.36%20Edg%2F141.0.0.0&Referer=https%3A%2F%2Fwww.peacocktv.com%2F
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",Astro Grandstand
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="",Astro Grandstand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 https://astrogo-cen.cenc16995.workers.dev/2701/default_primary.mpd
