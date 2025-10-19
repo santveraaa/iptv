@@ -597,7 +597,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #KODIPROP:inputstream.adaptive.license_key=e08e58f2617b44c79420912190b8bd93:5bf5134f819c8b566a6563447ed563bb
 https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
-
+#EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",RTG TV (Rusia)
+http://194.143.148.28:8080/RTG_HD/index.m3u8
 
 <==================================================== SPORTS ====================================================>
 
