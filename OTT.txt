@@ -704,9 +704,8 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163984
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002287d5fe1d2dd774ce0ecec682dcee:791c195a56b573f9e9c34db5dc92e682
 https://g003-sle-us-cmaf-prd-mc.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506938-208351-247b129505f)/master_2hr.mpd?c3.ri=1b7a97dfcf402078_7ccb659f84-xjgn4_CVX07&aws.sessionId=d5d7e500-767d-462d-a71b-a9626057c0b1
 
