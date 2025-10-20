@@ -704,7 +704,7 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163984
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00221d55a7c0c8be7b0876bd116e12ce:5facd44c82482c153381f041fdbd7a98
