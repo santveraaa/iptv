@@ -738,7 +738,15 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163984
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC 2
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK WOMEN BASKETBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://g005-sf-us-cmaf-prd-fy.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic-cfd/pub/global/19/928/pck_2458792003961/vge_gsp/PCK_1760923389783_3171_01/mpeg_cenc/69aae228-1c22-414e-ac55-6cb8d0915946/master_cmaf.mpd?c3.ri=1b7c4726eb0010a7_7ccb659f84-gwsrq_CVX07&aws.sessionId=67f47ceb-bff3-4450-aea5-09180fb1ca5a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022e986d10e2853cfb610bf90b4c62e:13e034a80ffd89c1ca834e22e0a47cf7
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2507763-209176-247e255d3d8)/master_2hr.mpd?c3.ri=1b7cbe1b5a40049d_7ccb659f84-vnq57_CVX07&aws.sessionId=c0af3e06-8cbe-4fbb-bbcc-e613cfb5ab44
 
+
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK SNOW LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002233c092ca832fc63d2f87aae4f428:bc49af6d07662efc458f01a5dc41b2cf
+https://g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com/pck-vod/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-4s-generic-cfd/pub/global/FER/45f/8fe/202503/45f8fe2e-56c8-5f22-ac55-95963606e5a1/peacock719170-ctr/master.mpd?c3.ri=1b7cc2171140209d_7ccb659f84-vnq57_CVX07&aws.sessionId=14e277e8-fa47-4628-ae44-6ae61351ab8c
