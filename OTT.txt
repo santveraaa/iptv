@@ -740,7 +740,5 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 
 #EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK AQUATIC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00221d55a7c0c8be7b0876bd116e12ce:5facd44c82482c153381f041fdbd7a98
 https://g005-sf-us-cmaf-prd-fy.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic-cfd/pub/global/19/928/pck_2458792003961/vge_gsp/PCK_1760923389783_3171_01/mpeg_cenc/69aae228-1c22-414e-ac55-6cb8d0915946/master_cmaf.mpd?c3.ri=1b7c4726eb0010a7_7ccb659f84-gwsrq_CVX07&aws.sessionId=67f47ceb-bff3-4450-aea5-09180fb1ca5a
 
