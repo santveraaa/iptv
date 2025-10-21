@@ -536,10 +536,6 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",PEACOOCK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0016ffbf84ff6186866cd4df551cd42d:87638b422c528066f1f670a3d8dfdff1
-https://g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic-cfd/pub/global/6zY/1Ty/GMO_00000001007256_01/vge_vgp/PCK_1759500247062_f78e_01/mpeg_cenc/master_cmaf.mpd?c3.ri=1b6e1a4ebcc0043a_7ccb659f84-bjr2g_CVX06&aws.sessionId=1fb18b43-95f0-48d7-8f61-8e2cc2fbe91a
 
 
 ========================
@@ -738,5 +734,5 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00221d55a7c0c8be7b0876bd116e12ce:5facd44c82482c153381f041fdbd7a98
-https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2505875-207288-24771cd3478)/master_2hr.mpd?c3.ri=1b7aac859b4018a7_7ccb659f84-gwsrq_CVX07&aws.sessionId=2d5fed7e-5b16-4f02-a844-0d64fd33f00a
+https://g005-sf-us-cmaf-prd-fy.cdn.peacocktv.com/pck-vod/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic-cfd/pub/global/19/928/pck_2458792003961/vge_gsp/PCK_1760923389783_3171_01/mpeg_cenc/69aae228-1c22-414e-ac55-6cb8d0915946/master_cmaf.mpd?c3.ri=1b7c4726eb0010a7_7ccb659f84-gwsrq_CVX07&aws.sessionId=67f47ceb-bff3-4450-aea5-09180fb1ca5a
 
