@@ -453,6 +453,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f5d2e90-2471-4d92-b142-439cfc613cca&serverSideAds=false&checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020e77e0f75070a0b504fa69f65e3b7:cec1b5e92b8358141585e66775184ab7
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc135mf424)/master_2min.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/wildearth.jpg" group-title="Knowledge & Documentary",Wild Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+
+
 
 
 <=============================== Entertainment & Lifestyle =================================================================>
