@@ -771,5 +771,5 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 #EXTINF:-1 group-title="PREMIUM SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",EPL Chelsea vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022b947b3b36d378be456b1bd851c22:733adec1b3e42741e46c781a5de2ef23
-https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2507195-208608-247c07ad3a0)/master_2hr.mpd?c3.ri=1b81c58d11401123_7ccb659f84-mnw5r_CVX07&aws.sessionId=7bfb24d6-d744-4897-8005-625ee6e7bbd4
+#KODIPROP:inputstream.adaptive.license_key=0022777eef6cf577bebf52c1c1ee9a7b:2f0277f2803456eae428f8e321e97eba
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2507200-208613-247c0c71ee5)/master_2hr.mpd?c3.ri=1b81ea2861c01dd2_7ccb659f84-nsj25_CVX07&aws.sessionId=47a05801-2b8b-4a85-bd0f-d8dec21cf964
