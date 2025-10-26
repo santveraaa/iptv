@@ -82,6 +82,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/rcti.png" group-title="🇮🇩 Nasional Lokal MK", RCTI HD
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
