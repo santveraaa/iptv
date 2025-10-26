@@ -470,11 +470,24 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 <=============================== Entertainment & Lifestyle =================================================================>
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmcubmu.xaadx.workers.dev/
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ace4a654c8a/20221106023904.jpg",Travel TV
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd?sign=96e9a2ed019e7d8aa34d511f19580e62&time=1761475878
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmcubmu.xaadx.workers.dev/
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e0182597009c021ef/20220801124451.jpg",Cooking TV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd?sign=b51b9c247811a7a95493e5ece4e77f93&time=1761475878
 
 
-
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmcubmu.xaadx.workers.dev/
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856fd0d66d0170342015d30907/20200211120122.png",Eat N Go
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd?sign=6048145005fafd656448b512cb188112&time=1761475878
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
