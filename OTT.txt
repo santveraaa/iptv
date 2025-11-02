@@ -614,6 +614,8 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 
 
 <==================================================== SPORTS ====================================================>
+=================================================================================================================
+
 
 
 
@@ -690,18 +692,6 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/usaeast.png" group-title="PREMIUM SPORT",USA EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/usawest.png" group-title="PREMIUM SPORT",USA WEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
 #EXTINF:-1 tvg-logo="https://iili.io/FsyPN2I.png" group-title="PREMIUM SPORT",Astro Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -740,3 +730,15 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163986
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022777eef6cf577bebf52c1c1ee9a7b:2f0277f2803456eae428f8e321e97eba
 https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2507200-208613-247c0c71ee5)/master_2hr.mpd?c3.ri=1b81ea2861c01dd2_7ccb659f84-nsj25_CVX07&aws.sessionId=47a05801-2b8b-4a85-bd0f-d8dec21cf964
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/usaeast.png" group-title="PREMIUM SPORT",USA EAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/usawest.png" group-title="PREMIUM SPORT",USA WEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
