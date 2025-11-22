@@ -585,7 +585,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL3-CTR-4s/Live/channel(usa-east)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",Spurs vs MU
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/peacocktv.png",Ice Skeater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=00224de4a8fc3303de960e566b2b8cd4:1582e44d11865439e6837ef0e2eb6164
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2508952-210365-24829348bbd)/master_2hr.mpd?c3.ri=6921889a_Q1ZYMDc_0_Q0xPVURGUk9OVA_20d700286f6a&aws.sessionId=ff4422c9-9fa7-4def-8ca1-5afa3d722683
