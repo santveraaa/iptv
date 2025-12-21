@@ -535,6 +535,13 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",RTG TV (Rusia)
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",Peacock Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00220e11b0711580c7b29148abc3f192:acf86c5f259bf9b6b0f1e907c42cbda5
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2508035-209447-247f28c38e7)/master_2hr.mpd?c3.ri=69488163_Q1ZYMDc_0_RkFTVExZ_2181e2184801&aws.sessionId=8e6c552f-f17f-4a6f-8cfb-7413114a6e16
+
+
 
 
 
