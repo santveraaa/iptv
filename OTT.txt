@@ -9,9 +9,7 @@
 
 #EXTINF:-1 tvg-id="allplay.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/landscape.png" group-title="🇮🇩 Nasional Lokal MK",Allplay Ent FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://myserver.com/widevine
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="🇮🇩 Nasional Lokal MK", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
