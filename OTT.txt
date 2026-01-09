@@ -319,9 +319,13 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="",Elshinta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
@@ -513,9 +517,11 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00220e11b0711580c7b29148abc3f192:acf86c5f259bf9b6b0f1e907c42cbda5
 https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2508035-209447-247f28c38e7)/master_2hr.mpd?c3.ri=69488163_Q1ZYMDc_0_RkFTVExZ_2181e2184801&aws.sessionId=8e6c552f-f17f-4a6f-8cfb-7413114a6e16
 
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",4K Travel
+https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_3500k.m3u8
 
-
-
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle", InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/540p/index.m3u8
 
 
 
