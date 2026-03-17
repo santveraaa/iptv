@@ -31,20 +31,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg" group-title="🇮🇩 Nasional Lokal MK",MDTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1 tvg-id="TRANS TV.id" tvg-url="" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="🇮🇩 Nasional Lokal MK",TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://cdnjktbpid26.cubmu.com/riutx01/dash/VHJhbnNUVg/manifest.mpd
-
-#EXTINF:-1 tvg-id="Trans 7.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="🇮🇩 Nasional Lokal MK", TRANS 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/mqtv.png" group-title="Religi",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
@@ -187,6 +173,9 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 ======================= DENS ======================================================================================================>
 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg" group-title="🇮🇩 Nasional Lokal MK",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="🇮🇩 Nasional Lokal MK",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -195,10 +184,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="🇮🇩 Nasional Lokal MK",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-id="Kompas TV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/GelhQN9.png" group-title="🇮🇩 Nasional Lokal MK",KOMPAS TV
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/tq4taTY.png",TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -248,11 +233,43 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
-#EXTINF:-1 tvg-id="bnchannel.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BN Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-
 #EXTINF:-1 tvg-id="bnchannel.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w309719366.m3u8
+
+
+
+===================================== CUBMU =====================================================================>
+
+
+#EXTINF:-1 tvg-id="4028c685730a42430173142e26ba7b17" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685730a42430173142e26ba7b17/5f7dff410fd1430f9baba0be909d9675.png" group-title="🇮🇩 Nasional Lokal MK", jtv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+
+#EXTINF:-1 tvg-id="4028c685651d7bcc01651f0b6d210096" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="🇮🇩 Nasional Lokal MK", Trans TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#EXTINF:-1 tvg-id="4028c685651d7bcc01651f0db0bf0097" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="🇮🇩 Nasional Lokal MK", Trans 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#EXTINF:-1 tvg-id="4028c68572841ba301729ce2a0d83c16" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="🇮🇩 Nasional Lokal MK", Kompas TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+
 
 ==========================================================================================================================================================================================
 
@@ -265,7 +282,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/inspiratv.png" group-title="🇮🇩 Nasional Lokal MK", Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/beritasatu.png" group-title="🇮🇩 Nasional Lokal MK", BeritaSatu
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
@@ -281,7 +298,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="🇮🇩 Nasional Lokal MK",ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
+
+
 
 #EXTINF:-1 tvg-id="iNews.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/inews.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
