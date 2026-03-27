@@ -524,13 +524,13 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/540p/index.m3
 
 =============================================== Sports =====================================================>
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Sports", Live Event
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Sports" group-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bola.png" , Live Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edcaf604e393364f9ecddc6aa9711baf:a8ffb85b34aa8040e52c1fbaed020848
 https://fifa.global.transmit.live/eu-west-1-b/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 tvg-id="Horizon Sports.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/horizonsport.png" group-title="Sports",Horizon Sport
+#EXTINF:-1 tvg-id="Horizon Sports.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/horizonsport.png" group-title="Sports" group-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bola.png",Horizon Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
