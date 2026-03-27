@@ -127,9 +127,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="🇮🇩 Nasional Lokal MK", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b78e11178ad14a7ca8ca1b2485cfcd57:0b742827319e0f4d62260aa0d42963a1
-https://cdn08jtedge.indihometv.com/dassdvr/130/KOMPAS_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="🇮🇩 Nasional Lokal MK", rtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
