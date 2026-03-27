@@ -351,22 +351,23 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 
 #EXTINF:-1 tvg-id="Global Trekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/global%20trekker.jpg" group-title="Knowledge & Documentary",Global Trekker 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
-https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 tvg-id="BBC Earth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bbc%20earth.jpg" group-title="Knowledge & Documentary",BBC Earth (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/naturetime.png" group-title="Knowledge & Documentary",Nature Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Outdoor Channel - [Channel 202].id" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Knowledge & Documentary",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/earth%20touch%20tv.png" group-title="Knowledge & Documentary",Earth Touch tv HD
@@ -416,7 +417,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/
 <=============================== Entertainment & LifeStyle =================================================================>
 
 
-
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
