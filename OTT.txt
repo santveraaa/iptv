@@ -62,11 +62,6 @@ https://streaming.indihometv.com/dass/134/metrotv/manifest_wuseetv.mpd?enc=2Uxji
 #KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
 https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest.mpd
 
-#EXTINF:-1 tvg-id="Horizon Sports.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/horizonsport.png" group-title="SPORTS",Horizon Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e08e58f2617b44c79420912190b8bd93:5bf5134f819c8b566a6563447ed563bb
-https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
 
 #EXTINF:-1 tvg-id="HGTV.sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge & Documentary",HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -273,9 +268,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w309719366.m3u8
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/metrotv.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1572319292_b1492000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="TVRI Sport.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/tvri%20sport.png" , TVRI SPORTS
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Magna Channel.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="122" , Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -520,17 +512,25 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UN" tvg-logo="" group-title="Entertainment & LifeStyle",RTG TV (Rusia)
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Peacock Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00220e11b0711580c7b29148abc3f192:acf86c5f259bf9b6b0f1e907c42cbda5
-https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/Content/CMAF_CTR-4s-v2/Live/channel(2508035-209447-247f28c38e7)/master_2hr.mpd?c3.ri=69488163_Q1ZYMDc_0_RkFTVExZ_2181e2184801&aws.sessionId=8e6c552f-f17f-4a6f-8cfb-7413114a6e16
-
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",4K Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=edcaf604e393364f9ecddc6aa9711baf:a8ffb85b34aa8040e52c1fbaed020848
+https://fifa.global.transmit.live/eu-west-1-b/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
 https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_3500k.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle", InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/540p/index.m3u8
 
 
+=============================================== Sports =====================================================>
 
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Sports", Live Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=edcaf604e393364f9ecddc6aa9711baf:a8ffb85b34aa8040e52c1fbaed020848
+https://fifa.global.transmit.live/eu-west-1-b/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 tvg-id="Horizon Sports.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/horizonsport.png" group-title="Sports",Horizon Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
