@@ -35,7 +35,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e00187ade1d4e018f8e3b6b565c8476:9dc3b266e56de66218f435ee38ecb6dc
-https://cdn08jtedge.indihometv.com/dassdvr/134/metrotv/manifest.mpd
+https://cdn13jtedge.indihometv.com/dass/134/metrotv/manifest_wuseetv.mpd?encp=0lGxKegUEL4NeCHHiOrewA&uid=&expp=1775876465
 
 #EXTINF:-1 tvg-id="mqtv.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/mqtv.png" group-title="Religi",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -117,13 +117,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cnnindonesia/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest.mpd
+https://streaming.indihometv.com/dass/130/trans7/manifest_wuseetv.mpd?enc=pW6G4-6gsI3RGRN-g4uLUw&exp=1775865843&encp=_wAHTctbynsHntLpWuE6Ig&expp=1775876343
 
 #EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="🇮🇩 Nasional Lokal MK", TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
-https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest.mpd
+https://streaming.indihometv.com/dass/130/transtv/manifest_wuseetv.mpd?enc=cXwz9En9Eu_thi-Ok439_g&exp=1775865700&encp=ppmgeG3LahBZ_2x_vBkZzg&expp=1775876200
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="🇮🇩 Nasional Lokal MK",SCTV FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e830fb86d2b54979add2c70e68cd7c42:80155dd4602650199546070874c4db50
+https://cdn13jtedge.indihometv.com/atm/mpd-vo/sctv/manifest.mpd?encp=a5j5CQe2wqsNvj0ORH6PDg&uid=&expp=1775876676
+
+#EXTINF:-1 tvg-id="daaitv.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=9b1ecc11a7fd4d9ca5d33b51914593b7:4812904bf38e816c4a5f3da7e45450c2
+https://streaming.indihometv.com/dass/134/daaitv/manifest_wuseetv.mpd?enc=MdvYKPL6_ZMDycGpt6Lkpw&exp=1775866278&encp=PINjNX6Hp7BucH96jTRe_A&expp=1775876778
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="🇮🇩 Nasional Lokal MK", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
@@ -151,12 +161,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="🇮🇩 Nasional Lokal MK",SCTV FHD
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -316,11 +320,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-#EXTINF:-1 tvg-id="daaitv.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="", DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-
-
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="🇮🇩 Nasional Lokal MK", CNBC INDONESIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
@@ -333,9 +332,9 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
-https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ea3809189b4e46a95a17bfaf798368:1aed267074ea56ce75ce442565cd71eb
+https://cdn13jtedge.indihometv.com/dass/130/lovenature/manifest_wuseetv.mpd?encp=aPux_iY5BTbe3M8IlSBYHw&uid=&expp=1775876076
 
 #EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/history.jpg" group-title="Knowledge & Documentary",History HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
