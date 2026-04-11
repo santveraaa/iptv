@@ -132,6 +132,7 @@ https://cdn13jtedge.indihometv.com/atm/mpd-vo/sctv/manifest.mpd?encp=a5j5CQe2wqs
 
 #EXTINF:-1 tvg-id="daaitv.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b1ecc11a7fd4d9ca5d33b51914593b7:4812904bf38e816c4a5f3da7e45450c2
 https://streaming.indihometv.com/dass/134/daaitv/manifest_wuseetv.mpd?enc=MdvYKPL6_ZMDycGpt6Lkpw&exp=1775866278&encp=PINjNX6Hp7BucH96jTRe_A&expp=1775876778
 
@@ -266,10 +267,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w309719366.m3u8
 
 
 ==========================================================================================================================================================================================
-
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/metrotv.png",Metro TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1572319292_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Magna Channel.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="122" , Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
