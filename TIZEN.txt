@@ -205,13 +205,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-id="cookingchanel.id" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle", Hell's Kitchen
-https://list.iptvcat.com/my_list/s/82c6f6cbef5be7dab04ab0f93e548ee1.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle", Cook's Country Channel
-https://list.iptvcat.com/my_list/s/749cc5c74d8dc309ebb04b9db0364c8b.m3u8
 
 #EXTINF:-1 tvg-id="americas.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/americastestkitchen.png" group-title="Entertainment & LifeStyle",America's TEST KITCHEN
-https://list.iptvcat.com/my_list/s/3179b837cd25fa02655ffc5fce22a21d.m3u8
 
 #EXTINF:-1 tvg-id="cookingpanda.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/cooking%20panda.jpg" group-title="Entertainment & LifeStyle",Cooking Panda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
