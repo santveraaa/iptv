@@ -143,22 +143,19 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="natgeowild.id" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
-#EXTINF:-1 tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Knowledge and Documentary",Outdoor America
+#EXTINF:-1 tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Knowledge & Documentary",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hunt Fish TV 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Knowledge and Documentary",Hunt Fish TV 🇺🇸
+#EXTINF:-1 tvg-name="Hunt Fish TV 🇺🇸" tvg-id="5747" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Knowledge & Documentary",Hunt Fish TV 🇺🇸
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-HUNT_FISH_TV/sofastplayout/WiseM3U8_2/master.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bbc%20earth.jpg" group-title="Knowledge & Documentary",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outdoor Channel - [Channel 202].id" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Knowledge & Documentary",Outdoor Channel
