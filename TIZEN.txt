@@ -130,6 +130,9 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31905271_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="JTV.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd
 
 
 ======================================= Knowledge & Documentary =========================================================================================
