@@ -52,7 +52,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" group-title="🇮🇩 Nasional Lokal MK",Nusantara TV FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/antaratv.png" group-title="🇮🇩 Nasional Lokal MK",Antara TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -68,7 +68,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kompas TV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="🇮🇩 Nasional Lokal MK", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="🇮🇩 Nasional Lokal MK", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -99,7 +99,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-327770703
 
 #EXTINF:-1 tvg-id="RTV.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
-https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="Magna Channel.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="122" , Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
@@ -137,9 +137,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31905271_b38
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-
-#EXTINF:-1 tvg-id="pbsnature.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/pbs%20nature.png" group-title="Knowledge & Documentary",Pbs Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
 #EXTINF:-1 tvg-id="natgeowild.id" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
