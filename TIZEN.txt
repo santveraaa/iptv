@@ -192,11 +192,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", FilAmTV
-https://cdn.vegasplus.us/vegas/ftv/chunks.m3u8?nimblesessionid=1115061
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", Terra Mater Wild
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0343/7cb242d8-3dfa-11f1-a055-7a4541b343b0/71/1280x720_2500000/index.m3u8
 
 
 ================================================ Entertainment & LifeStyle ====================================================================================
@@ -311,23 +307,15 @@ https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 
 #EXTINF:-1 tvg-id="maxreal.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Reels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_540p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",Just For Laughs
 https://streams2.sofast.tv/sofast2/v1/019a2ab65e59150752202a19e93695/019a2ae196fd1e2b6eeb3af6efe13f/justforlaughs_2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",MIH TV
 https://connection3-ent-nz.samsung.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",NBCLX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1_caption.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle", The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR576p.m3u8
