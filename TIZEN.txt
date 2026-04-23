@@ -109,6 +109,11 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 
 #EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="🇮🇩 Nasional Lokal MK", CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2131249696_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="cnnindonesia.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w165878527_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/antaratv.png" group-title="🇮🇩 Nasional Lokal MK",Antara TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -120,6 +125,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF:-1 tvg-id="iNews.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
+
 
 
 
@@ -192,17 +198,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Test 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2131249696_b384000_sleng.m3u8
-
-#EXTINF:-1 ,Test 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w165878527_b384000_sleng.m3u8
-
-#EXTINF:-1 ,Test 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
-https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8
 
 
 
