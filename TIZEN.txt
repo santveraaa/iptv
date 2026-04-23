@@ -311,9 +311,6 @@ https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="maxreal.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Reels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",Just For Laughs
-https://streams2.sofast.tv/sofast2/v1/019a2ab65e59150752202a19e93695/019a2ae196fd1e2b6eeb3af6efe13f/justforlaughs_2500k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",MIH TV
 https://connection3-ent-nz.samsung.wurl.tv/2000.m3u8
 
