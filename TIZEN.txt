@@ -133,7 +133,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 
