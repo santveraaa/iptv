@@ -138,6 +138,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="🇮🇩 Nasional Lokal MK", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
 
 
@@ -274,6 +275,10 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
+#EXTINF:-1 tvg-id="maxreal.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Reels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
 #EXTINF:-1 tvg-id="fearfactor.id" tvg-logo="" group-title="Entertainment & LifeStyle",Fear Factor
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-fearfactor-samsungau/cb543d1f7b6c648d92d43c62cef048a1f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b380813f5ad96ea6af1c56953145f596109add48ead3855d8340d220f4099c93a68ace428ad0957eff55b6610d5d7a79cdd82fc4fb53dca9f2c5fd980b4a6f3a178f8a9dfa413283544a5d8a90a1dd44cc63050db8e31a539a13914efe5de294690dd58664a1a6bacd56407bd5aca0a223d2878aa1815219bc6dfab0fddc391ccbb47c19369ce280070ceae85db2cad43a5fee6319a5fe053c2bc9900ab19cb982fda48c704744a0dad997274b426f054dd313f2da25ec20d37ca7d90061727904fcca1b94dd9969396c19d2db1ecc454ff09baa93cf023efd651971e174960e563b82673a3cad06d1ae1140c566068c3e38bb7f308349f3f16cd6afc9ea0b3efa8f9311b13fa1e54482b631a86b3d4b0bfca77f080b1f2b90c1563f7f289112aa8384b1395972999da7c9c95d3c082e04125ddb90805eafce91795346bb104c055b00128405ac18fd1246173dcc0c93e149438c082522f1b47d3a7e6985c3a58e97dca915ed2833ae67b4ef943fd5cb8dcfa1219bcffa762c907ff21bae/187/1280x720_3329040/index.m3u8
 
@@ -336,10 +341,6 @@ https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-
-#EXTINF:-1 tvg-id="maxreal.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Reels
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle",MIH TV
 https://connection3-ent-nz.samsung.wurl.tv/2000.m3u8
