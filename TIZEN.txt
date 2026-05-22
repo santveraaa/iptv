@@ -48,9 +48,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="brtv.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BRTV
-https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w309719366.m3u8
-
 #EXTINF:-1 tvg-id="DAAI TV.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -84,6 +81,19 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="🇮🇩 Nasional Lokal MK", CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w630754931_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="brtv.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w458944930.m3u8
+
 =======================================================================================================================
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="🇮🇩 Nasional Lokal MK",SCTV
@@ -110,10 +120,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1 tvg-id="iNews.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/kwfGZ2N.png" group-title="🇮🇩 Nasional Lokal MK", CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="cnnindonesia.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
 
@@ -126,9 +132,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:i
 #EXTINF:-1 tvg-id="IDX.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/idx.png" group-title="🇮🇩 Nasional Lokal MK",IDX Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="🇮🇩 Nasional Lokal MK", ANTV
+####EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="🇮🇩 Nasional Lokal MK", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-
 
 
 ======================================= Knowledge & Documentary =========================================================================================
@@ -187,7 +192,7 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", InWild
+#EXTINF:-1 tvg-id="inwild.us" tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge & Documentary",National Geographic
@@ -200,20 +205,14 @@ http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/11171
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
 #EXTINF:-1 tvg-id="natgeowild.id" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&checkedby:iptvcat.com
 
 
 
 ================================================ Entertainment & LifeStyle ====================================================================================
 
 
-#EXTINF:-1 tvg-id="HGTV HD.sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Entertainment & LifeStyle",HGTV
-
-#EXTINF:-1 tvg-id="foodnetwork.id" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
-
-#EXTINF:-1 tvg-id="ifood.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/ifood.png" group-title="Entertainment & LifeStyle",Ifood
-
-#EXTINF:-1 tvg-id="cookingchanel.id" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
 
 #EXTINF:-1 tvg-id="Hell Kitchen.us" tvg-logo="" group-title="Entertainment & LifeStyle", Hell's Kitchen
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
@@ -256,23 +255,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 #EXTINF:-1 tvg-id="jamie.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/thejamieoliver.png" group-title="Entertainment & LifeStyle",The Jamie Oliver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="maxeats.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Eats
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
-
-#EXTINF:-1 tvg-id="maxreal.id" tvg-logo="" group-title="Entertainment & LifeStyle",Max Reels
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png",New TV Comprehensive
-https://cdn10jtedge.indihometv.com/atm/DASH/newtvcomprehensive/newtvcomprehensive-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvfinance.png",New TV Finance
-https://cdn10jtedge.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",New TV Variety
-https://cdn10jtedge.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="Entertainment & LifeStyle",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
@@ -330,10 +312,6 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment & LifeStyle",FailArmy
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 
@@ -349,29 +327,20 @@ https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle", The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR576p.m3u8
 
-===================================================== RELIGI ====================================================================================================
+#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="HGTV HD.sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Entertainment & LifeStyle",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="foodnetwork.id" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="ifood.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/ifood.png" group-title="Entertainment & LifeStyle",Ifood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="cookingchanel.id" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 
-#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/mqtv.png" group-title="Religi",MQTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="MUI TV.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/muitv.png" group-title="Religi",MUITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Tawaf TV - [Channel 105].id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/tawaftv.png" group-title="Religi",TAWAF TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/rodjatv.png" group-title="Religi",Rodjatv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
-#EXTINF:-1 tvg-id="muhamadiyah.id" tvg-logo="" group-title="Religi", Muhammadiyah TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/muhammadiyahtv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="tv9nu.id" tvg-logo="" group-title="Religi", TV9 NU
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/tv9/tv9-avc1_2500000=7-3277707030000000.mpd
