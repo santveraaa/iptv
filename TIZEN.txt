@@ -94,17 +94,28 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w630754931_b1492000_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w458944930.m3u8
 
+#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV SBY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV JKT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV SMG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV MADIUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="GTV.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-=======================================================================================================================
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="🇮🇩 Nasional Lokal MK",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -116,12 +127,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/rcti.png" group-title="🇮🇩 Nasional Lokal MK", RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="AllPlay Ent.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/landscape.png" group-title="🇮🇩 Nasional Lokal MK",Allplay Ent FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="cnnindonesia.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",CNN Indonesia
@@ -145,7 +150,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-big-stories340x160@3x@3x.jpg" group-title="Knowledge & Documentary",BIG STORIES
+#EXTINF:-1 tvg-id="bigstories.us" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-big-stories340x160@3x@3x.jpg" group-title="Knowledge & Documentary",BIG STORIES
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8
@@ -190,31 +195,33 @@ https://lifestyle-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-
 #EXTINF:-1 tvg-id="inwild.us" tvg-country="" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary", InWild
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8?checkedby:iptvcat.com
+
+
+
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge & Documentary",National Geographic
-http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/11173
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-hd-pl.png" group-title="Knowledge & Documentary", National Geographic Wild
-http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/11171
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 
 #EXTINF:-1 tvg-id="natgeowild.id" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&checkedby:iptvcat.com
+
 
 
 
 ================================================ Entertainment & LifeStyle ====================================================================================
 
 
+#EXTINF:-1 tvg-id="bonappetit-samsung.us" tvg-logo="" group-title="Entertainment & LifeStyle", Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hell Kitchen.us" tvg-logo="" group-title="Entertainment & LifeStyle", Hell's Kitchen
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
@@ -331,6 +338,7 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR576p.
 
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV HD.sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Entertainment & LifeStyle",HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
