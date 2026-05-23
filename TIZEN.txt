@@ -119,10 +119,6 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="🇮🇩 Nasional Lokal MK",SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="🇮🇩 Nasional Lokal MK",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -149,8 +145,6 @@ https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-32777070300
 https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="IDX.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/idx.png" group-title="🇮🇩 Nasional Lokal MK",IDX Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
 
 
 
