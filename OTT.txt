@@ -115,19 +115,6 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-32777070300
 
 #EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV SBY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV JKT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV SMG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-C-M0WIcJn7q2olD7hr8TSRw5QY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="🇮🇩 Nasional Lokal MK",Jawapos TV MADIUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="🇮🇩 Nasional Lokal MK", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
