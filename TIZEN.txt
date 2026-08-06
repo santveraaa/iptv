@@ -82,8 +82,6 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8?checkedby:iptvcat.com
 
 
 
-#EXTINF:-1 tvg-id="bonappetit-samsung.us" tvg-logo="" group-title="Entertainment & LifeStyle", Pluto TV Kfood
-https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 #EXTINF:-1 tvg-id="bonappetit-samsung.us" tvg-logo="" group-title="Entertainment & LifeStyle", Bon Appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
