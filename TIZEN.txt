@@ -126,9 +126,6 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="Entertainment & LifeStyle",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="free.moview.us" tvg-logo="" group-title="Entertainment & LifeStyle", 24 Hours Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-
 #EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://a.jsrdn.com/hls/23232/cgtn-global-biz/poster_20251105_004203.jpg" group-title="Entertainment & LifeStyle",CGTN Global Biz
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
@@ -149,25 +146,12 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gotravel.id" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & LifeStyle",Go2Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DensKnowledge.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/dens%20learning.jpg" group-title="Knowledge & Documentary",Dens Learning & Knowledge 
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 #EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Entertainment & LifeStyle",Dens ShowBiz 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 #EXTINF:-1 tvg-id="DensLifeAndStyle.id" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & LifeStyle",Dens Life & Style 
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 tvg-id="oxygenTV.id" group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -180,7 +164,6 @@ https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle",Fear Factor
-https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle",People Are Awesome
 https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
@@ -189,7 +172,6 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment & LifeStyle", The Design Network
-https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR576p.m3u8
 
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
