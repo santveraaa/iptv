@@ -14,9 +14,6 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Adventure Earth
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-
 #EXTINF:-1 tvg-id="plutotvanimal.us" tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal Germany
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 
@@ -42,9 +39,6 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist720_pl.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bbc%20earth.jpg" group-title="Knowledge & Documentary",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Knowledge & Documentary", Documentary+
-https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Outdoor Channel US HD.us" tvg-id="USBD1200020Y4" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Knowledge & Documentary",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
