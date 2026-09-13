@@ -87,7 +87,7 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8?checkedby:iptvcat.com
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hell Kitchen.us" tvg-logo="" group-title="Entertainment & LifeStyle", Hell's Kitchen
-https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americas.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/americastestkitchen.png" group-title="Entertainment & LifeStyle",America's TEST KITCHEN
 https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
@@ -114,6 +114,9 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",Jordan Kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",Kfood
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
 #EXTINF:-1 tvg-id="DensFood Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & LifeStyle",Dens Food Channel 
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
@@ -124,6 +127,9 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 #EXTINF:-1 tvg-id="jamie.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/thejamieoliver.png" group-title="Entertainment & LifeStyle",The Jamie Oliver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="Entertainment & LifeStyle",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
