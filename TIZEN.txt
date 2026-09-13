@@ -6,11 +6,16 @@
 
 ======================================= Knowledge & Documentary =========================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",WILD TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
 
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plutotvanimal.us" tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal Germany
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
