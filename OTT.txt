@@ -106,8 +106,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="Love Nature.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature 4K
-
+#EXTINF:-1 tvg-id="Love Nature.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature US
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f2/95/cc/f295cc1b6543904e3db5d450a8749577.jpg" group-title="》NAT_&_KNOW", Naturescape 
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
+https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Magellantv Wildest
 #KODIPROP:inputstream=inputstream.adaptive
@@ -236,8 +238,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Biznet Adventure" tvg-name="Biznet Adventure" tvg-logo="https://mimipipi22.github.io/logo/knowledge/biznetadventure.jpg" group-title="Knowledge & Documentary",BIZNET ADVENTURE
 
 #EXTINF:-1 tvg-id="DensKnowledge.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/dens%20learning.jpg" group-title="Knowledge & Documentary",Dens Learning & Knowledge 
@@ -252,8 +252,25 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 
 #EXTINF:-1 tvg-id="Global Trekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/global%20trekker.jpg" group-title="Knowledge & Documentary",Global Trekker 
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",TRAVEL & TASTE
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-id="" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",OUTDOR
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 
 
@@ -384,11 +401,13 @@ https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="biznetlifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyiGZ6kGqMCRXL3ToFbIZyPZobLj--EvzWIA&s" group-title="Entertainment & LifeStyle",BIZNET LIFESTYLE
 
-#EXTINF:-1 tvg-id="Cooking Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Cooking Channel
-EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="Entertainment & LifeStyle",FASHION RUS
+https://cdn.wfc.tv/cdn/stream-rus.m3u8
 
