@@ -292,10 +292,6 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 
 #EXTINF:-1 tvg-id="firslifestyle.id" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 #EXTINF:-1 tvg-id="gustotv.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/gustotv.jpg" group-title="Entertainment & LifeStyle",Gustotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -383,13 +379,6 @@ https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DensLifeandStyle.id" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & LifeStyle",Dens Life & Style 
 
 #EXTINF:-1 tvg-id="biznetlifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyiGZ6kGqMCRXL3ToFbIZyPZobLj--EvzWIA&s" group-title="Entertainment & LifeStyle",BIZNET LIFESTYLE
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="Entertainment & LifeStyle",FASHION RUS
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
