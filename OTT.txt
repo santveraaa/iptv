@@ -97,7 +97,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 
 
 #EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="" tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/54172.ts
 
+#EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="" tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet US
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/307658.ts
+
+#EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="" tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge & Documentary",Animal Planet Mexico
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/581908.ts
 
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature
 #KODIPROP:inputstream=inputstream.adaptive
@@ -138,7 +144,16 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/400153.ts
 
+#EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/307683.ts
+
+#EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild HD
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/307684.ts
+
+#EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild HD USA
+http://mundo2.vip/live/Stefania12meses/unasolavezal1/399264.ts
 
 #EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Sharks
 #KODIPROP:inputstream=inputstream.adaptive
