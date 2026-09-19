@@ -190,6 +190,10 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary 
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary China
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+
 #EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://a.jsrdn.com/hls/23232/cgtn-global-biz/poster_20251105_004203.jpg" group-title="Entertainment & LifeStyle",CGTN Global Biz
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
@@ -262,18 +266,21 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
+#EXTINF:-1 tvg-id="lovetheplanet" tvg-name="" tvg-logo="" group-title="Knowledge & Documentary",Love The Planet
+https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
 
+EXTINF:-1 tvg-id="terramaterwild" tvg-name="Curiosity Now" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-
-
-
+EXTINF:-1 tvg-id="vijunature" tvg-name="Curiosity Now" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
+http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 
 
 
 <=============================== Entertainment & LifeStyle =================================================================>
 
-
-
+#EXTINF:-1 tvg-id="peertv" tvg-logo="" group-title="Entertainment & LifeStyle", Peer Tv
+https://iptv.peer.biz/live/peertv-it.m3u8
 
 #EXTINF:-1 tvg-id="americastestkitchen.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/americastestkitchen.png" group-title="Entertainment & LifeStyle",America's TEST KITCHEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
