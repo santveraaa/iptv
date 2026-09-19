@@ -6,7 +6,7 @@
 
 
 
-#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" group-title="🇮🇩 Nasional Lokal MK", Trans7
+
 
 #EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="🇮🇩 Nasional Lokal MK", TransTV
 
