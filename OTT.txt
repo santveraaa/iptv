@@ -142,10 +142,8 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild HD
 
@@ -262,13 +260,13 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
-EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
+#EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-EXTINF:-1 tvg-id="vijunature" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
+#EXTINF:-1 tvg-id="vijunature" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
 http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 
-EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
+#EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Knowledge & Documentary",Love Nature FHD
