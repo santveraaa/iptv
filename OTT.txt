@@ -53,12 +53,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" group-title="🇮🇩 Nasional Lokal MK",Nusantara TV
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/tq4taTY.png",TVONE
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
