@@ -328,7 +328,8 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Food",Tastemade UK 
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 
-=============================== Travel ===========================================================
+
+=============================== Entertainment & LifeStyle ===========================================================
 
 
 
