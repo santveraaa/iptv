@@ -19,8 +19,6 @@
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="🇮🇩 Nasional Lokal MK",MNCTV
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="🇮🇩 Nasional Lokal MK",MOJI
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
