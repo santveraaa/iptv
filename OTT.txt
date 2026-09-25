@@ -58,28 +58,33 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" group-title="🇮🇩 Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/tq4taTY.png",TVONE
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="brtv.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BRTV
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w458944930.m3u8
 
 #EXTINF:-1 tvg-id="daaitv.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png", DAAI TV
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTINF:-1 tvg-id="Garuda TV.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/garudatv.jpg",Garuda TV
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://g20culture.indonesiana.tv/_nuxt/img/cover.6b9be5b.png" group-title="🇮🇩 Nasional Lokal MK",Indonesiana TV HD
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-ALLOW-CACHE:NO#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXT-X-ALLOW-CACHE:NO
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -87,16 +92,24 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/jaktv.png" group-title="🇮🇩 Nasional Lokal MK",JAKTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Magna Channel.id" group-title="🇮🇩 Nasional Lokal MK" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" tvg-id="122" , Magna Channel
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvriworld.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/tvriworld.png",TVRI WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000=20002.m3u8
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="🇮🇩 Nasional Lokal MK",TVRI Nasional
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b506b4131b424803ae0ae8cf2353cbe0:c622394db9a136e6e12192fa2885f333
@@ -115,6 +128,8 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,6 +137,8 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Magellantv Wildest
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,27 +146,41 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary", InWonder
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",WILD TV
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 #EXTINF:-1 tvg-id="plutotvanimal.us" tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal Germany
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 
 #EXTINF:-1 tvg-id="plutotvanimal.us" tvg-logo="" group-title="Knowledge & Documentary",Pluto TV Animal US
 https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Terra Mater Wild Germany
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",Terra Mater Wild US
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Knowledge & Documentary", Adventure Earth
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Knowledge & Documentary", Asharq Discovery
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo
@@ -159,6 +190,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo Wild HD
 
 #EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Sharks
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -166,13 +199,19 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-id="Nature Time.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/naturetime.png" group-title="Knowledge & Documentary",Nature Time
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist720_pl.m3u8
 
 #EXTINF:-1 tvg-id="inwild.us" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Knowledge & Documentary",InWild
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="PBS_NATURE" tvg-logo="" group-title="Knowledge & Documentary",PBS Nature
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,29 +219,41 @@ https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg008
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-id="realwild.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/real%20wild.jpg" group-title="Knowledge & Documentary",Real Wild
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/viasatnature.png" group-title="Knowledge & Documentary",Viasat NATURE
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
 #EXTINF:-1 tvg-id="wildearth.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/wildearth.jpg" group-title="Knowledge & Documentary",Wild Earth
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary 
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTN.id" group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary China
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://a.jsrdn.com/hls/23232/cgtn-global-biz/poster_20251105_004203.jpg" group-title="Entertainment & LifeStyle",CGTN Global Biz
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-logo="" group-title="Knowledge & Documentary",Curiosity Now
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -210,13 +261,19 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="Knowledge & Documentary",Discovering China
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="earthtouchtv.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/earth%20touch%20tv.png" group-title="Knowledge & Documentary",Earth Touch TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="huntfishtv.us" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2024/02/huntfishtv.png" group-title="Knowledge & Documentary",Hunt Fish TV 🇺🇸
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-HUNT_FISH_TV/sofastplayout/WiseM3U8_2/master.m3u8
 
 #EXTINF:-1 tvg-id="History.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/history.jpg" group-title="Knowledge & Documentary",History HD
@@ -227,9 +284,13 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 
 #EXTINF:-1 tvg-id="infast.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/infast.png" group-title="Knowledge & Documentary",Infast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://lifestyle-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="MYSTERIOUS_WORLDS" tvg-logo="" group-title="Knowledge & Documentary",Mysterious Worlds
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -350,6 +411,8 @@ https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 
 #EXTINF:-1 tvg-id="peertv" tvg-logo="" group-title="Entertainment & LifeStyle", Peer Tv
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-ALLOW-CACHE:NO
 https://iptv.peer.biz/live/peertv-it.m3u8
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="Entertainment & LifeStyle",China Travel
