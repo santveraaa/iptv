@@ -115,7 +115,28 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 <================================ Knowledge & Documentary ============================================>
 
+#EXTINF:-1 tvg-id="vnature.us" group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
+#EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
+#EXTVLCOPT:http-reconnect=true
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vijunature" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
+#EXTVLCOPT:http-reconnect=true
+http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
+#EXTVLCOPT:http-reconnect=true
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Knowledge & Documentary",Love Nature FHD
+#EXTVLCOPT:http-reconnect=true
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/love%20nature.jpg" group-title="Knowledge & Documentary",Love Nature
 #EXTVLCOPT:http-reconnect=true
@@ -125,6 +146,18 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
+#EXTINF:-1 tvg-id="BBC Earth.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bbc%20earth.jpg" group-title="Knowledge & Documentary",BBC Earth 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="Knowledge & Documentary" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png",BBC Earth 2
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary",Magellantv Wildest
 #EXTVLCOPT:http-reconnect=true
 #KODIPROP:inputstream=inputstream.adaptive
@@ -132,10 +165,6 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary", InWonder
-#EXTVLCOPT:http-reconnect=true
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge & Documentary",WILD TV
 #EXTVLCOPT:http-reconnect=true
@@ -160,6 +189,7 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Knowledge & Documentary", Adventure Earth
 #EXTVLCOPT:http-reconnect=true
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Knowledge & Documentary", Asharq Discovery
 #EXTVLCOPT:http-reconnect=true
@@ -232,6 +262,10 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
 
+#EXTINF:-1 tvg-logo="" group-title="Knowledge & Documentary", InWonder
+#EXTVLCOPT:http-reconnect=true
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="Knowledge & Documentary",Discovering China
 #EXTVLCOPT:http-reconnect=true
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
@@ -278,9 +312,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #KODIPROP:inputstream.adaptive.license_key=016ea4104bdc43d9a1cf81d50f8ec0d6:d4fdfa9c49307246cdafb6598cbcb255
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/out/v1/a032ddc3b3cb4b509462280f7afda8a2/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="BBC Earth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/bbc%20earth.jpg" group-title="Knowledge & Documentary",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Biznet Adventure" tvg-logo="https://mimipipi22.github.io/logo/knowledge/biznetadventure.jpg" group-title="Knowledge & Documentary",BIZNET ADVENTURE
 
@@ -296,36 +327,6 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 
 #EXTINF:-1 tvg-id="Global Trekker.id" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/global%20trekker.jpg" group-title="Knowledge & Documentary",Global Trekker 
 
-#EXTINF:-1 tvg-id="vnature.us" group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
-
-#EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
-#EXTVLCOPT:http-reconnect=true
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vijunature" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
-#EXTVLCOPT:http-reconnect=true
-http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
-#EXTVLCOPT:http-reconnect=true
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Knowledge & Documentary",Love Nature FHD
-#EXTVLCOPT:http-reconnect=true
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="Knowledge & Documentary" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png",BBC Earth
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 
 
@@ -398,6 +399,7 @@ https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Entertainment & LifeStyle" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="peertv" tvg-logo="" group-title="Entertainment & LifeStyle", Peer Tv
 #EXTVLCOPT:http-reconnect=true
@@ -406,10 +408,6 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="Entertainment & LifeStyle",China Travel
 #EXTVLCOPT:http-reconnect=true
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="firslifestyle.id" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
-
 
 #EXTINF:-1 tvg-id="oxygent.id" group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 #EXTVLCOPT:http-reconnect=true
@@ -450,7 +448,7 @@ https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3d4056f8f4078c5f5a5cfb283dd6cddc:c590b5ad9d3a6eac5cc27507ce34089e
 https://a76aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wrc2mmbfhf/out/v1/6b5f96b0ac5c4e6f9306f9606432ae87/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="Knowledge & Documentary", HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="Entertainment & LifeStyle", HGTV
 #EXTVLCOPT:http-reconnect=true
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 
@@ -465,24 +463,6 @@ https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment & LifeStyle",Red Bull TV
 #EXTVLCOPT:http-reconnect=true
 https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="afn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network 
-
-#EXTINF:-1 tvg-id="TLC (HD).sg" group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png", TLC
-
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",Roya Kitchen
-
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/lifetime.jpg" group-title="Entertainment & LifeStyle",Lifetime 
-
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
-
-#EXTINF:-1 tvg-id="go2travel" tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & LifeStyle",Go2Travel
-
-#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Entertainment & LifeStyle",Dens ShowBiz 
-
-#EXTINF:-1 tvg-id="DensLifeandStyle.id" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & LifeStyle",Dens Life & Style 
-
-#EXTINF:-1 tvg-id="biznetlifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyiGZ6kGqMCRXL3ToFbIZyPZobLj--EvzWIA&s" group-title="Entertainment & LifeStyle",BIZNET LIFESTYLE
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="Entertainment & LifeStyle",FASHION RUS
 #EXTVLCOPT:http-reconnect=true
@@ -557,3 +537,22 @@ http://stream.mcquack.net/357/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="firslifestyle.id" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Entertainment & LifeStyle",First Lifestyle 
+
+#EXTINF:-1 tvg-id="afn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network 
+
+#EXTINF:-1 tvg-id="TLC (HD).sg" group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png", TLC
+
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Entertainment & LifeStyle",Roya Kitchen
+
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/lifetime.jpg" group-title="Entertainment & LifeStyle",Lifetime 
+
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment & LifeStyle",Food Network
+
+#EXTINF:-1 tvg-id="go2travel" tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & LifeStyle",Go2Travel
+
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Entertainment & LifeStyle",Dens ShowBiz 
+
+#EXTINF:-1 tvg-id="DensLifeandStyle.id" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Entertainment & LifeStyle",Dens Life & Style 
+
+#EXTINF:-1 tvg-id="biznetlifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyiGZ6kGqMCRXL3ToFbIZyPZobLj--EvzWIA&s" group-title="Entertainment & LifeStyle",BIZNET LIFESTYLE
