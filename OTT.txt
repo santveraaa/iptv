@@ -81,8 +81,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="brtv.id" tvg-url="" tvg-logo="" group-title="🇮🇩 Nasional Lokal MK",BRTV
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w458944930.m3u8
 
 #EXTINF:-1 tvg-id="daaitv.id" group-title="🇮🇩 Nasional Lokal MK" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png", DAAI TV
 #EXTVLCOPT:http-reconnect=true
