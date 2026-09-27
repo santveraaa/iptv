@@ -1,4 +1,4 @@
-#EXTM3U refresh="30" x-auto-reload="true"
+#EXTM3U refresh="30" x-auto-reload="true" player-buffer="20"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=1
 #EXTVLCOPT:network-caching=3000
