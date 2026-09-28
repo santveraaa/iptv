@@ -260,7 +260,7 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Food",Jordan Kitchen
 #EXTVLCOPT:http-reconnect=true
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tastemade.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/tastemade.png" group-title="Food",Tastemade
 #EXTVLCOPT:http-reconnect=true
@@ -339,7 +339,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 #EXTINF:-1 tvg-id="peertv" tvg-logo="" group-title="Entertainment & LifeStyle", Peer Tv
 #EXTVLCOPT:http-reconnect=true
-https://iptv.peer.biz/live/peertv-it.m3u8
+
 
 #EXTINF:-1 tvg-id="oxygent.id" group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 #EXTVLCOPT:http-reconnect=true
@@ -347,8 +347,7 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 tvg-id="superyachtv.us" tvg-country="UN" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Entertainment & LifeStyle",Superyacht TV
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://sy.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object-streamo.emonaja.com/img/hgtv.webp" group-title="Entertainment & LifeStyle", HGTV
 #EXTVLCOPT:http-reconnect=true
@@ -368,7 +367,7 @@ https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="Entertainment & LifeStyle",FASHION RUS
 #EXTVLCOPT:http-reconnect=true
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
+
 
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Entertainment & LifeStyle",Motorvision 
 #EXTVLCOPT:http-reconnect=true
@@ -380,20 +379,19 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 
 #EXTINF:-1 tvg-id="ShiftTV.hr@SD" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Entertainment & LifeStyle",Shift TV
 #EXTVLCOPT:http-reconnect=true
-https://hls.shift.tv/live/shifttv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Entertainment & LifeStyle",El Gourmet South 
 #EXTVLCOPT:http-reconnect=true
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NBCLXHome.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg" group-title="Entertainment & LifeStyle",NBC LX Home
 #EXTVLCOPT:http-reconnect=true
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment & LifeStyle",TV3 Life 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-http://stream.mcquack.net/373/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BizTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png" group-title="Entertainment & LifeStyle",Biz TV 
 #EXTVLCOPT:http-reconnect=true
@@ -417,12 +415,12 @@ https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Entertainment & LifeStyle",The Fishing & Hunting Channel
 #EXTVLCOPT:http-reconnect=true
-http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Trofei.ua@SD" tvg-logo="https://i.imgur.com/VDt4mKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment & LifeStyle",Trofei (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-http://stream.mcquack.net/357/index.m3u8
+
 
 #EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Entertainment & LifeStyle",Waypoint TV 
 #EXTVLCOPT:http-reconnect=true
