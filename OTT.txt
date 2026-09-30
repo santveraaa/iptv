@@ -22,10 +22,6 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #EXTVLCOPT:http-reconnect=true
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
-#EXTVLCOPT:http-reconnect=true
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
-
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Knowledge & Documentary",Love Nature FHD
 #EXTVLCOPT:http-reconnect=true
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
