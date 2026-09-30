@@ -76,8 +76,6 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",Nat Geo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_ngc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-logo="" group-title="Knowledge & Documentary",Nat Geo Sharks
 #EXTVLCOPT:http-reconnect=true
