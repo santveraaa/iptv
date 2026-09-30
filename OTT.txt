@@ -11,20 +11,16 @@
 
 
 
-#EXTINF:-1 tvg-id="vnature.us" group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",V NATURE
+#EXTINF:-1 tvg-id="vnature.us" group-title="Knowledge & Documentary" tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Viasat NATURE
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
-#EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany 2
+#EXTINF:-1 tvg-id="terramaterwild" tvg-logo="" group-title="Knowledge & Documentary",Terra Matter Wild Germany
 #EXTVLCOPT:http-reconnect=true
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vijunature" tvg-logo="" group-title="Knowledge & Documentary",Vijunature Nature
-#EXTVLCOPT:http-reconnect=true
-http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="lovenature4k.us" tvg-logo="" group-title="Knowledge & Documentary",Love Nature 4K
 #EXTVLCOPT:http-reconnect=true
