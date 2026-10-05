@@ -248,9 +248,12 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Food",Jordan Kitchen
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" group-title="Food",Jordan Kitchen
 #EXTVLCOPT:http-reconnect=true
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChefChampion.us@SD" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Food",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-id="tastemade.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/tastemade.png" group-title="Food",Tastemade
 #EXTVLCOPT:http-reconnect=true
@@ -266,6 +269,11 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTVLCOPT:http-reconnect=true
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="Food",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Food",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 ================================ Travel ==============================================================================
 
