@@ -269,11 +269,8 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTVLCOPT:http-reconnect=true
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="Food",Master Chefs Academy TV
-https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Food",Pluto TV KFOOD
-https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="Food",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 
 ================================ Travel ==============================================================================
 
