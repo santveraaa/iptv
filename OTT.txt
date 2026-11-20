@@ -215,11 +215,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/
 
 <=============================== Food  ==========================================================>
 
-#EXTINF:-1 tvg-id="FoodNetwork.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Food",Food Network (Czech Republic)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 
-#EXTINF:-1 tvg-id="Foody.il@SD" tvg-logo="https://images.open-epg.com/18748363.png" group-title="Food",Foody
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Food",Food Network (Czech Republic)
+#EXTVLCOPT:http-reconnect=true
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 
 #EXTINF:-1 tvg-id="americastestkitchen.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/americastestkitchen.png" group-title="Food",America's TEST KITCHEN
 #EXTVLCOPT:http-reconnect=true
@@ -272,6 +272,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Food",Asian Food Network
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 
+#EXTINF:-1 tvg-id="Foody.il@SD" tvg-logo="https://images.open-epg.com/18748363.png" group-title="Food",Foody
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
 
 
 ================================ Travel ==============================================================================
