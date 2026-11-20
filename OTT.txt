@@ -217,9 +217,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/
 
 
 
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Food",Food Network (Czech Republic)
-#EXTVLCOPT:http-reconnect=true
-https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 
 #EXTINF:-1 tvg-id="americastestkitchen.us" tvg-logo="https://raw.githubusercontent.com/santveraaa/iptv/refs/heads/main/logo/americastestkitchen.png" group-title="Food",America's TEST KITCHEN
 #EXTVLCOPT:http-reconnect=true
@@ -274,6 +271,27 @@ https://freem3u.xyz/api/live/play.m3u8?vid=215
 
 #EXTINF:-1 tvg-id="Foody.il@SD" tvg-logo="https://images.open-epg.com/18748363.png" group-title="Food",Foody
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Cooking;Lifestyle",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Food",Food Network (Czech Republic)
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Food",Food Network (Hungary)
+http://88.212.7.14/live/fn_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Food",Food Network (Italy) (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Food",Food Network (United States) (720p)
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Foodxp.uk@SD" tvg-logo="https://i.imgur.com/zOWog5j.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Food",Foodxp (1080p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" group-title="Food",Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 
 
 ================================ Travel ==============================================================================
