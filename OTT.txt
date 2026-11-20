@@ -272,7 +272,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-id="Foody.il@SD" tvg-logo="https://images.open-epg.com/18748363.png" group-title="Food",Foody
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Cooking;Lifestyle",Pluto TV KFOOD
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Food",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest?cb=20171221110545" group-title="Food",Food Network (Czech Republic)
